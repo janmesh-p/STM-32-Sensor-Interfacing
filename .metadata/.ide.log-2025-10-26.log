@@ -1,0 +1,285 @@
+2025-10-26 14:07:10,147 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:10,178 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:10,179 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:10,181 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:10,182 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:10,184 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:10,185 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:10,186 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:10,188 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:10,189 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:10,190 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:10,191 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:10,198 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:10,249 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:10,625 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:10,877 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:10,878 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:10,879 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:10,880 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:10,882 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:10,883 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:10,884 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:10,885 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:10,886 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:10,887 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:10,888 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:10,889 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:10,890 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:10,893 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:11,045 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:11,136 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-26 14:07:11,682 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-26 14:07:11,683 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-26 14:07:11,685 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-26 14:07:11,686 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-26 14:07:12,067 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-26 14:07:12,068 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-26 14:07:12,427 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-26 14:07:12,427 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-26 14:07:12,597 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:12,599 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:12,599 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:12,600 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:12,603 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:12,604 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:12,605 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:12,606 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:12,607 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:12,608 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:12,608 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:12,609 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:12,610 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:12,610 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:12,767 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:12,945 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:12,946 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:12,947 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:12,948 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:12,949 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:12,949 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:12,950 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:12,951 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:12,954 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:12,955 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:12,955 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:12,956 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:12,957 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:12,957 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:13,085 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-26 14:07:13,166 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-26 14:07:41,760 [INFO] Gpio:278 - dependency for GPIO [ADC1, I2C1, RCC, SYS, USART2]
+2025-10-26 14:15:08,424 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 761284984 Bytes (1073741824)
+2025-10-26 14:15:08,786 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 785402232 Bytes (1073741824)
+2025-10-26 14:15:11,628 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 940591472 Bytes (1073741824)
+2025-10-26 14:15:15,996 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: FREERTOS
+2025-10-26 14:15:15,997 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-10-26 14:15:15,997 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-10-26 14:15:15,997 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: ADC
+2025-10-26 14:15:15,997 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-10-26 14:15:15,998 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2C
+2025-10-26 14:15:15,998 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-10-26 14:15:15,998 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2025-10-26 14:15:15,999 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-10-26 14:15:16,005 [INFO] CodeGenerator:892 - code generatio: config db path: D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-10-26 14:15:16,094 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-26 14:15:16,094 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-26 14:15:16,431 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\license.tmp_save
+2025-10-26 14:15:17,239 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\license.tmp
+2025-10-26 14:15:17,365 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\gpio.tmp_save
+2025-10-26 14:15:17,753 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\gpio.tmp
+2025-10-26 14:15:18,655 [INFO] Middleware:1452 - No code input for Bsp Dependency
+2025-10-26 14:15:18,685 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_inc.tmp_save
+2025-10-26 14:15:19,028 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_inc.tmp
+2025-10-26 14:15:19,051 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelInit.tmp_save
+2025-10-26 14:15:19,354 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelInit.tmp
+2025-10-26 14:15:19,373 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelStart.tmp_save
+2025-10-26 14:15:19,641 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelStart.tmp
+2025-10-26 14:15:19,661 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_typedefs.tmp_save
+2025-10-26 14:15:19,929 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_typedefs.tmp
+2025-10-26 14:15:19,952 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_vars.tmp_save
+2025-10-26 14:15:20,239 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_vars.tmp
+2025-10-26 14:15:20,278 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_pfp.tmp_save
+2025-10-26 14:15:20,556 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_pfp.tmp
+2025-10-26 14:15:20,581 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_obj_creat.tmp_save
+2025-10-26 14:15:20,851 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_obj_creat.tmp
+2025-10-26 14:15:20,872 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_default_thread.tmp_save
+2025-10-26 14:15:21,229 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_default_thread.tmp
+2025-10-26 14:15:21,252 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_threads.tmp_save
+2025-10-26 14:15:21,522 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_threads.tmp
+2025-10-26 14:15:21,593 [INFO] Middleware:1452 - No code input for Bsp Dependency
+2025-10-26 14:15:21,631 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_inc.tmp_save
+2025-10-26 14:15:21,872 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_inc.tmp
+2025-10-26 14:15:21,905 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelInit.tmp_save
+2025-10-26 14:15:22,128 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelInit.tmp
+2025-10-26 14:15:22,164 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelStart.tmp_save
+2025-10-26 14:15:22,487 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelStart.tmp
+2025-10-26 14:15:22,523 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_typedefs.tmp_save
+2025-10-26 14:15:22,741 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_typedefs.tmp
+2025-10-26 14:15:22,769 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_vars.tmp_save
+2025-10-26 14:15:22,988 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_vars.tmp
+2025-10-26 14:15:23,020 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_pfp.tmp_save
+2025-10-26 14:15:23,214 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_pfp.tmp
+2025-10-26 14:15:23,245 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_obj_creat.tmp_save
+2025-10-26 14:15:23,454 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_obj_creat.tmp
+2025-10-26 14:15:23,481 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_default_thread.tmp_save
+2025-10-26 14:15:23,686 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_default_thread.tmp
+2025-10-26 14:15:23,712 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_threads.tmp_save
+2025-10-26 14:15:23,914 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_threads.tmp
+2025-10-26 14:15:23,939 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\FreeRTOSConfig.h_save
+2025-10-26 14:15:24,243 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\FreeRTOSConfig.h
+2025-10-26 14:15:24,274 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\freertos.c_save
+2025-10-26 14:15:24,518 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\freertos.c
+2025-10-26 14:15:24,607 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_it.c_save
+2025-10-26 14:15:25,278 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_it.c
+2025-10-26 14:15:25,309 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_it.h_save
+2025-10-26 14:15:25,512 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_it.h
+2025-10-26 14:15:25,596 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_hal_msp.c_save
+2025-10-26 14:15:26,013 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_hal_msp.c
+2025-10-26 14:15:26,045 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\system.tmp_save
+2025-10-26 14:15:26,246 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\system.tmp
+2025-10-26 14:15:26,298 [INFO] CodeEngine:321 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-10-26 14:15:26,539 [INFO] CodeEngine:345 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_hal_conf.h
+2025-10-26 14:15:26,653 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-10-26 14:15:26,655 [WARN] CodeGenerator:4259 - IP not found : null
+2025-10-26 14:15:26,692 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\main.h_save
+2025-10-26 14:15:26,998 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\main.h
+2025-10-26 14:15:27,026 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\main.c_save
+2025-10-26 14:15:27,490 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\main.c
+2025-10-26 14:15:29,500 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 1354mS.
+2025-10-26 14:15:29,518 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-10-26 14:15:29,794 [INFO] ConfigFileManager:1595 - The Die is : DIE413
+2025-10-26 14:15:36,374 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 6857mS.
+2025-10-26 14:15:36,376 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 2mS.
+2025-10-26 14:15:36,396 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-10-26 14:20:35,366 [INFO] Gpio:278 - dependency for GPIO [ADC1, I2C1, RCC, SYS, USART2]
+2025-10-26 14:20:37,150 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-26 14:20:37,154 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-26 14:20:37,157 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-26 14:20:37,158 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-26 14:20:38,201 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-26 14:20:38,202 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-26 14:20:39,129 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-26 14:20:39,129 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-26 14:20:39,262 [INFO] Gpio:278 - dependency for GPIO [ADC1, I2C1, RCC, SYS, USART2]
+2025-10-26 14:24:56,920 [INFO] Gpio:278 - dependency for GPIO [ADC1, I2C1, RCC, SYS, USART2]
+2025-10-26 14:24:57,118 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-26 14:24:57,436 [INFO] Gpio:278 - dependency for GPIO [ADC1, I2C1, RCC, SYS, USART2]
+2025-10-26 14:24:57,607 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-26 14:24:57,944 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-26 14:24:57,944 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-26 14:24:57,945 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-26 14:24:57,946 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-26 14:24:58,132 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-26 14:24:58,133 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-26 14:24:58,310 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-26 14:24:58,312 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-26 14:24:58,402 [INFO] Gpio:278 - dependency for GPIO [ADC1, I2C1, RCC, SYS, USART2]
+2025-10-26 14:24:58,558 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-26 14:27:35,813 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 962865000 Bytes (1073741824)
+2025-10-26 14:27:36,245 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 986982248 Bytes (1073741824)
+2025-10-26 14:27:40,475 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 693317368 Bytes (1073741824)
+2025-10-26 14:30:26,173 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: FREERTOS
+2025-10-26 14:30:26,174 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-10-26 14:30:26,174 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-10-26 14:30:26,174 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: ADC
+2025-10-26 14:30:26,175 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-10-26 14:30:26,175 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2C
+2025-10-26 14:30:26,177 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-10-26 14:30:26,178 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2025-10-26 14:30:26,179 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-10-26 14:30:26,183 [INFO] CodeGenerator:892 - code generatio: config db path: D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-10-26 14:30:26,219 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-26 14:30:26,220 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-26 14:30:26,495 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\license.tmp_save
+2025-10-26 14:30:27,628 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\license.tmp
+2025-10-26 14:30:27,821 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\gpio.tmp_save
+2025-10-26 14:30:28,249 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\gpio.tmp
+2025-10-26 14:30:29,388 [INFO] Middleware:1452 - No code input for Bsp Dependency
+2025-10-26 14:30:29,429 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_inc.tmp_save
+2025-10-26 14:30:29,727 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_inc.tmp
+2025-10-26 14:30:29,749 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelInit.tmp_save
+2025-10-26 14:30:30,034 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelInit.tmp
+2025-10-26 14:30:30,063 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelStart.tmp_save
+2025-10-26 14:30:30,339 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelStart.tmp
+2025-10-26 14:30:30,361 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_typedefs.tmp_save
+2025-10-26 14:30:30,644 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_typedefs.tmp
+2025-10-26 14:30:30,663 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_vars.tmp_save
+2025-10-26 14:30:30,955 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_vars.tmp
+2025-10-26 14:30:30,980 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_pfp.tmp_save
+2025-10-26 14:30:31,246 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_pfp.tmp
+2025-10-26 14:30:31,270 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_obj_creat.tmp_save
+2025-10-26 14:30:31,553 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_obj_creat.tmp
+2025-10-26 14:30:31,573 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_default_thread.tmp_save
+2025-10-26 14:30:31,846 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_default_thread.tmp
+2025-10-26 14:30:31,869 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_threads.tmp_save
+2025-10-26 14:30:32,100 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_threads.tmp
+2025-10-26 14:30:32,160 [INFO] Middleware:1452 - No code input for Bsp Dependency
+2025-10-26 14:30:32,217 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_inc.tmp_save
+2025-10-26 14:30:32,453 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_inc.tmp
+2025-10-26 14:30:32,484 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelInit.tmp_save
+2025-10-26 14:30:32,705 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelInit.tmp
+2025-10-26 14:30:32,739 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelStart.tmp_save
+2025-10-26 14:30:32,947 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelStart.tmp
+2025-10-26 14:30:32,978 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_typedefs.tmp_save
+2025-10-26 14:30:33,205 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_typedefs.tmp
+2025-10-26 14:30:33,233 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_vars.tmp_save
+2025-10-26 14:30:33,465 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_vars.tmp
+2025-10-26 14:30:33,501 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_pfp.tmp_save
+2025-10-26 14:30:33,697 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_pfp.tmp
+2025-10-26 14:30:33,726 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_obj_creat.tmp_save
+2025-10-26 14:30:33,946 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_obj_creat.tmp
+2025-10-26 14:30:33,971 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_default_thread.tmp_save
+2025-10-26 14:30:34,172 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_default_thread.tmp
+2025-10-26 14:30:34,194 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_threads.tmp_save
+2025-10-26 14:30:34,378 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_threads.tmp
+2025-10-26 14:30:34,402 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\FreeRTOSConfig.h_save
+2025-10-26 14:30:34,675 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\FreeRTOSConfig.h
+2025-10-26 14:30:34,711 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\freertos.c_save
+2025-10-26 14:30:34,945 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\freertos.c
+2025-10-26 14:30:35,016 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_it.c_save
+2025-10-26 14:30:35,613 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_it.c
+2025-10-26 14:30:35,639 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_it.h_save
+2025-10-26 14:30:35,834 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_it.h
+2025-10-26 14:30:35,895 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_hal_msp.c_save
+2025-10-26 14:30:36,347 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_hal_msp.c
+2025-10-26 14:30:36,375 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\system.tmp_save
+2025-10-26 14:30:36,563 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\system.tmp
+2025-10-26 14:30:36,608 [INFO] CodeEngine:321 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-10-26 14:30:36,854 [INFO] CodeEngine:345 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_hal_conf.h
+2025-10-26 14:30:36,958 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-10-26 14:30:36,962 [WARN] CodeGenerator:4259 - IP not found : null
+2025-10-26 14:30:37,015 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\main.h_save
+2025-10-26 14:30:37,367 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\main.h
+2025-10-26 14:30:37,393 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\main.c_save
+2025-10-26 14:30:37,882 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\main.c
+2025-10-26 14:30:39,565 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 1002mS.
+2025-10-26 14:30:39,580 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-10-26 14:30:39,783 [INFO] ConfigFileManager:1595 - The Die is : DIE413
+2025-10-26 14:30:45,660 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 6081mS.
+2025-10-26 14:30:45,662 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-10-26 14:30:45,697 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-10-26 18:44:35,842 [INFO] WebApp:194 - Connection lost
+2025-10-26 18:44:36,151 [INFO] WebApp:191 - Connection restablished
+2025-10-26 18:45:02,874 [INFO] WebApp:194 - Connection lost
+2025-10-26 18:45:03,057 [INFO] WebApp:191 - Connection restablished
+2025-10-26 21:05:54,350 [INFO] WebApp:194 - Connection lost
+2025-10-26 21:05:54,574 [INFO] WebApp:191 - Connection restablished
+2025-10-26 21:06:50,350 [INFO] WebApp:194 - Connection lost
+2025-10-26 21:06:50,561 [INFO] WebApp:191 - Connection restablished
+2025-10-26 22:10:34,419 [INFO] WebApp:194 - Connection lost
+2025-10-26 22:10:34,617 [INFO] WebApp:191 - Connection restablished
+2025-10-26 22:10:57,351 [INFO] WebApp:194 - Connection lost
+2025-10-26 22:10:57,527 [INFO] WebApp:191 - Connection restablished
+2025-10-26 22:41:23,834 [INFO] WebApp:194 - Connection lost
+2025-10-26 22:41:24,024 [INFO] WebApp:191 - Connection restablished
+2025-10-26 22:43:35,861 [INFO] WebApp:194 - Connection lost
+2025-10-26 22:43:36,080 [INFO] WebApp:191 - Connection restablished
+2025-10-26 22:43:54,829 [INFO] WebApp:194 - Connection lost
+2025-10-26 22:43:55,086 [INFO] WebApp:191 - Connection restablished
+2025-10-26 23:14:27,850 [INFO] WebApp:194 - Connection lost
+2025-10-26 23:14:28,048 [INFO] WebApp:191 - Connection restablished
+2025-10-26 23:16:20,869 [INFO] WebApp:194 - Connection lost
+2025-10-26 23:16:21,069 [INFO] WebApp:191 - Connection restablished
+2025-10-26 23:16:34,383 [INFO] WebApp:194 - Connection lost
+2025-10-26 23:16:34,574 [INFO] WebApp:191 - Connection restablished

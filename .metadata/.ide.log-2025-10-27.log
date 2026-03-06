@@ -1,0 +1,446 @@
+2025-10-27 19:06:05,944 [INFO] WebApp:194 - Connection lost
+2025-10-27 19:06:13,707 [INFO] WebApp:191 - Connection restablished
+2025-10-27 19:06:16,181 [INFO] WebApp:194 - Connection lost
+2025-10-27 19:06:16,375 [INFO] WebApp:191 - Connection restablished
+2025-10-27 19:06:16,845 [INFO] WebApp:194 - Connection lost
+2025-10-27 19:06:17,904 [INFO] WebApp:191 - Connection restablished
+2025-10-27 20:40:23,506 [INFO] Gpio:278 - dependency for GPIO [ADC1, I2C1, RCC, SYS, USART2]
+2025-10-27 20:40:24,022 [INFO] Gpio:278 - dependency for GPIO [ADC1, I2C1, RCC, SYS, USART2]
+2025-10-27 20:40:24,748 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-27 20:40:24,749 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-27 20:40:24,750 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-27 20:40:24,751 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-27 20:40:25,005 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-27 20:40:25,006 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-27 20:40:25,229 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-27 20:40:25,229 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-27 20:40:25,320 [INFO] Gpio:278 - dependency for GPIO [ADC1, I2C1, RCC, SYS, USART2]
+2025-10-27 20:40:42,388 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 810667384 Bytes (1073741824)
+2025-10-27 20:40:42,786 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 835833208 Bytes (1073741824)
+2025-10-27 20:40:44,649 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 973196640 Bytes (1073741824)
+2025-10-27 20:40:47,816 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: FREERTOS
+2025-10-27 20:40:47,817 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-10-27 20:40:47,817 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-10-27 20:40:47,817 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: ADC
+2025-10-27 20:40:47,817 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-10-27 20:40:47,818 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2C
+2025-10-27 20:40:47,818 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-10-27 20:40:47,818 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2025-10-27 20:40:47,820 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-10-27 20:40:47,824 [INFO] CodeGenerator:892 - code generatio: config db path: D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-10-27 20:40:47,855 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-27 20:40:47,855 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-27 20:40:48,089 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\license.tmp_save
+2025-10-27 20:40:48,995 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\license.tmp
+2025-10-27 20:40:49,149 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\gpio.tmp_save
+2025-10-27 20:40:49,595 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\gpio.tmp
+2025-10-27 20:40:50,736 [INFO] Middleware:1452 - No code input for Bsp Dependency
+2025-10-27 20:40:50,767 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_inc.tmp_save
+2025-10-27 20:40:51,075 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_inc.tmp
+2025-10-27 20:40:51,097 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelInit.tmp_save
+2025-10-27 20:40:51,420 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelInit.tmp
+2025-10-27 20:40:51,445 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelStart.tmp_save
+2025-10-27 20:40:51,774 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelStart.tmp
+2025-10-27 20:40:51,794 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_typedefs.tmp_save
+2025-10-27 20:40:52,101 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_typedefs.tmp
+2025-10-27 20:40:52,122 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_vars.tmp_save
+2025-10-27 20:40:52,412 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_vars.tmp
+2025-10-27 20:40:52,431 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_pfp.tmp_save
+2025-10-27 20:40:52,698 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_pfp.tmp
+2025-10-27 20:40:52,719 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_obj_creat.tmp_save
+2025-10-27 20:40:53,052 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_obj_creat.tmp
+2025-10-27 20:40:53,072 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_default_thread.tmp_save
+2025-10-27 20:40:53,345 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_default_thread.tmp
+2025-10-27 20:40:53,363 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_threads.tmp_save
+2025-10-27 20:40:53,600 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_threads.tmp
+2025-10-27 20:40:53,677 [INFO] Middleware:1452 - No code input for Bsp Dependency
+2025-10-27 20:40:53,709 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_inc.tmp_save
+2025-10-27 20:40:53,968 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_inc.tmp
+2025-10-27 20:40:53,997 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelInit.tmp_save
+2025-10-27 20:40:54,228 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelInit.tmp
+2025-10-27 20:40:54,267 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelStart.tmp_save
+2025-10-27 20:40:54,488 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelStart.tmp
+2025-10-27 20:40:54,522 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_typedefs.tmp_save
+2025-10-27 20:40:54,799 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_typedefs.tmp
+2025-10-27 20:40:54,836 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_vars.tmp_save
+2025-10-27 20:40:55,084 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_vars.tmp
+2025-10-27 20:40:55,120 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_pfp.tmp_save
+2025-10-27 20:40:55,351 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_pfp.tmp
+2025-10-27 20:40:55,382 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_obj_creat.tmp_save
+2025-10-27 20:40:55,587 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_obj_creat.tmp
+2025-10-27 20:40:55,618 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_default_thread.tmp_save
+2025-10-27 20:40:55,856 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_default_thread.tmp
+2025-10-27 20:40:55,879 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_threads.tmp_save
+2025-10-27 20:40:56,080 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_threads.tmp
+2025-10-27 20:40:56,107 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\FreeRTOSConfig.h_save
+2025-10-27 20:40:56,388 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\FreeRTOSConfig.h
+2025-10-27 20:40:56,413 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\freertos.c_save
+2025-10-27 20:40:56,655 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\freertos.c
+2025-10-27 20:40:56,735 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_it.c_save
+2025-10-27 20:40:57,371 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_it.c
+2025-10-27 20:40:57,402 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_it.h_save
+2025-10-27 20:40:57,633 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_it.h
+2025-10-27 20:40:57,717 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_hal_msp.c_save
+2025-10-27 20:40:58,080 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_hal_msp.c
+2025-10-27 20:40:58,097 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\system.tmp_save
+2025-10-27 20:40:58,261 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\system.tmp
+2025-10-27 20:40:58,303 [INFO] CodeEngine:321 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-10-27 20:40:58,489 [INFO] CodeEngine:345 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_hal_conf.h
+2025-10-27 20:40:58,589 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-10-27 20:40:58,592 [WARN] CodeGenerator:4259 - IP not found : null
+2025-10-27 20:40:58,627 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\main.h_save
+2025-10-27 20:40:58,987 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\main.h
+2025-10-27 20:40:59,019 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\main.c_save
+2025-10-27 20:40:59,515 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\main.c
+2025-10-27 20:41:01,187 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 1010mS.
+2025-10-27 20:41:01,204 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-10-27 20:41:01,493 [INFO] ConfigFileManager:1595 - The Die is : DIE413
+2025-10-27 20:41:07,464 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 6259mS.
+2025-10-27 20:41:07,466 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 2mS.
+2025-10-27 20:41:07,487 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-10-27 20:50:58,523 [INFO] Gpio:278 - dependency for GPIO [ADC1, I2C1, RCC, SYS, USART2]
+2025-10-27 20:50:58,751 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-27 20:50:59,041 [INFO] Gpio:278 - dependency for GPIO [ADC1, I2C1, RCC, SYS, USART2]
+2025-10-27 20:50:59,261 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-27 20:51:00,013 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-27 20:51:00,013 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-27 20:51:00,016 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-27 20:51:00,017 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-27 20:51:00,457 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-27 20:51:00,457 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-27 20:51:00,760 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-27 20:51:00,761 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-27 20:51:00,893 [INFO] Gpio:278 - dependency for GPIO [ADC1, I2C1, RCC, SYS, USART2]
+2025-10-27 20:51:01,061 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-27 20:51:12,444 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 876162472 Bytes (1073741824)
+2025-10-27 20:51:12,783 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 901205936 Bytes (1073741824)
+2025-10-27 20:51:14,940 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 657005488 Bytes (1073741824)
+2025-10-27 20:51:18,480 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: FREERTOS
+2025-10-27 20:51:18,481 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-10-27 20:51:18,481 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-10-27 20:51:18,481 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: ADC
+2025-10-27 20:51:18,481 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-10-27 20:51:18,482 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2C
+2025-10-27 20:51:18,485 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-10-27 20:51:18,486 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2025-10-27 20:51:18,487 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-10-27 20:51:18,492 [INFO] CodeGenerator:892 - code generatio: config db path: D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-10-27 20:51:18,542 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-27 20:51:18,544 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-27 20:51:18,817 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\license.tmp_save
+2025-10-27 20:51:19,817 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\license.tmp
+2025-10-27 20:51:19,968 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\gpio.tmp_save
+2025-10-27 20:51:20,381 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\gpio.tmp
+2025-10-27 20:51:21,471 [INFO] Middleware:1452 - No code input for Bsp Dependency
+2025-10-27 20:51:21,512 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_inc.tmp_save
+2025-10-27 20:51:21,846 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_inc.tmp
+2025-10-27 20:51:21,871 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelInit.tmp_save
+2025-10-27 20:51:22,146 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelInit.tmp
+2025-10-27 20:51:22,169 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelStart.tmp_save
+2025-10-27 20:51:22,451 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelStart.tmp
+2025-10-27 20:51:22,471 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_typedefs.tmp_save
+2025-10-27 20:51:22,739 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_typedefs.tmp
+2025-10-27 20:51:22,762 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_vars.tmp_save
+2025-10-27 20:51:23,038 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_vars.tmp
+2025-10-27 20:51:23,058 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_pfp.tmp_save
+2025-10-27 20:51:23,326 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_pfp.tmp
+2025-10-27 20:51:23,345 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_obj_creat.tmp_save
+2025-10-27 20:51:23,618 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_obj_creat.tmp
+2025-10-27 20:51:23,638 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_default_thread.tmp_save
+2025-10-27 20:51:23,945 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_default_thread.tmp
+2025-10-27 20:51:23,969 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_threads.tmp_save
+2025-10-27 20:51:24,238 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_threads.tmp
+2025-10-27 20:51:24,331 [INFO] Middleware:1452 - No code input for Bsp Dependency
+2025-10-27 20:51:24,364 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_inc.tmp_save
+2025-10-27 20:51:24,708 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_inc.tmp
+2025-10-27 20:51:24,745 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelInit.tmp_save
+2025-10-27 20:51:24,981 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelInit.tmp
+2025-10-27 20:51:25,008 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelStart.tmp_save
+2025-10-27 20:51:25,224 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelStart.tmp
+2025-10-27 20:51:25,254 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_typedefs.tmp_save
+2025-10-27 20:51:25,504 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_typedefs.tmp
+2025-10-27 20:51:25,531 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_vars.tmp_save
+2025-10-27 20:51:25,768 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_vars.tmp
+2025-10-27 20:51:25,805 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_pfp.tmp_save
+2025-10-27 20:51:26,029 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_pfp.tmp
+2025-10-27 20:51:26,062 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_obj_creat.tmp_save
+2025-10-27 20:51:26,265 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_obj_creat.tmp
+2025-10-27 20:51:26,294 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_default_thread.tmp_save
+2025-10-27 20:51:26,495 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_default_thread.tmp
+2025-10-27 20:51:26,523 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_threads.tmp_save
+2025-10-27 20:51:26,724 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_threads.tmp
+2025-10-27 20:51:26,749 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\FreeRTOSConfig.h_save
+2025-10-27 20:51:27,035 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\FreeRTOSConfig.h
+2025-10-27 20:51:27,063 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\freertos.c_save
+2025-10-27 20:51:27,290 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\freertos.c
+2025-10-27 20:51:27,413 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_it.c_save
+2025-10-27 20:51:28,055 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_it.c
+2025-10-27 20:51:28,083 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_it.h_save
+2025-10-27 20:51:28,297 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_it.h
+2025-10-27 20:51:28,367 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_hal_msp.c_save
+2025-10-27 20:51:28,790 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_hal_msp.c
+2025-10-27 20:51:28,820 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\system.tmp_save
+2025-10-27 20:51:28,999 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\system.tmp
+2025-10-27 20:51:29,057 [INFO] CodeEngine:321 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-10-27 20:51:29,279 [INFO] CodeEngine:345 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_hal_conf.h
+2025-10-27 20:51:29,364 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-10-27 20:51:29,365 [WARN] CodeGenerator:4259 - IP not found : null
+2025-10-27 20:51:29,401 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\main.h_save
+2025-10-27 20:51:29,608 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\main.h
+2025-10-27 20:51:29,630 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\main.c_save
+2025-10-27 20:51:30,026 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\main.c
+2025-10-27 20:51:31,608 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 1014mS.
+2025-10-27 20:51:31,622 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-10-27 20:51:31,826 [INFO] ConfigFileManager:1595 - The Die is : DIE413
+2025-10-27 20:51:38,044 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 6421mS.
+2025-10-27 20:51:38,046 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 2mS.
+2025-10-27 20:51:38,072 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-10-27 22:22:24,226 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 924056088 Bytes (1073741824)
+2025-10-27 22:22:24,772 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 950270736 Bytes (1073741824)
+2025-10-27 22:22:26,831 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 683730944 Bytes (1073741824)
+2025-10-27 22:22:55,960 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: FREERTOS
+2025-10-27 22:22:55,962 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-10-27 22:22:55,962 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-10-27 22:22:55,963 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: ADC
+2025-10-27 22:22:55,967 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-10-27 22:22:55,968 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2C
+2025-10-27 22:22:55,969 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-10-27 22:22:55,970 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2025-10-27 22:22:55,972 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-10-27 22:22:55,975 [INFO] CodeGenerator:892 - code generatio: config db path: D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-10-27 22:22:56,016 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-27 22:22:56,017 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-27 22:22:56,380 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\license.tmp_save
+2025-10-27 22:22:57,357 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\license.tmp
+2025-10-27 22:22:57,557 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\gpio.tmp_save
+2025-10-27 22:22:57,957 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\gpio.tmp
+2025-10-27 22:22:59,059 [INFO] Middleware:1452 - No code input for Bsp Dependency
+2025-10-27 22:22:59,093 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_inc.tmp_save
+2025-10-27 22:22:59,460 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_inc.tmp
+2025-10-27 22:22:59,481 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelInit.tmp_save
+2025-10-27 22:22:59,785 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelInit.tmp
+2025-10-27 22:22:59,803 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelStart.tmp_save
+2025-10-27 22:23:00,087 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelStart.tmp
+2025-10-27 22:23:00,110 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_typedefs.tmp_save
+2025-10-27 22:23:00,459 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_typedefs.tmp
+2025-10-27 22:23:00,476 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_vars.tmp_save
+2025-10-27 22:23:00,801 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_vars.tmp
+2025-10-27 22:23:00,823 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_pfp.tmp_save
+2025-10-27 22:23:01,169 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_pfp.tmp
+2025-10-27 22:23:01,190 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_obj_creat.tmp_save
+2025-10-27 22:23:01,552 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_obj_creat.tmp
+2025-10-27 22:23:01,574 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_default_thread.tmp_save
+2025-10-27 22:23:01,831 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_default_thread.tmp
+2025-10-27 22:23:01,852 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_threads.tmp_save
+2025-10-27 22:23:02,117 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_threads.tmp
+2025-10-27 22:23:02,181 [INFO] Middleware:1452 - No code input for Bsp Dependency
+2025-10-27 22:23:02,217 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_inc.tmp_save
+2025-10-27 22:23:02,476 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_inc.tmp
+2025-10-27 22:23:02,502 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelInit.tmp_save
+2025-10-27 22:23:02,775 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelInit.tmp
+2025-10-27 22:23:02,810 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelStart.tmp_save
+2025-10-27 22:23:03,062 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelStart.tmp
+2025-10-27 22:23:03,093 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_typedefs.tmp_save
+2025-10-27 22:23:03,330 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_typedefs.tmp
+2025-10-27 22:23:03,359 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_vars.tmp_save
+2025-10-27 22:23:03,578 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_vars.tmp
+2025-10-27 22:23:03,621 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_pfp.tmp_save
+2025-10-27 22:23:03,833 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_pfp.tmp
+2025-10-27 22:23:03,871 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_obj_creat.tmp_save
+2025-10-27 22:23:04,091 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_obj_creat.tmp
+2025-10-27 22:23:04,119 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_default_thread.tmp_save
+2025-10-27 22:23:04,331 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_default_thread.tmp
+2025-10-27 22:23:04,360 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_threads.tmp_save
+2025-10-27 22:23:04,572 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_threads.tmp
+2025-10-27 22:23:04,603 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\FreeRTOSConfig.h_save
+2025-10-27 22:23:04,909 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\FreeRTOSConfig.h
+2025-10-27 22:23:04,942 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\freertos.c_save
+2025-10-27 22:23:05,178 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\freertos.c
+2025-10-27 22:23:05,248 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_it.c_save
+2025-10-27 22:23:05,807 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_it.c
+2025-10-27 22:23:05,849 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_it.h_save
+2025-10-27 22:23:06,089 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_it.h
+2025-10-27 22:23:06,160 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_hal_msp.c_save
+2025-10-27 22:23:06,638 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_hal_msp.c
+2025-10-27 22:23:06,661 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\system.tmp_save
+2025-10-27 22:23:06,910 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\system.tmp
+2025-10-27 22:23:06,951 [INFO] CodeEngine:321 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-10-27 22:23:07,217 [INFO] CodeEngine:345 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_hal_conf.h
+2025-10-27 22:23:07,353 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-10-27 22:23:07,356 [WARN] CodeGenerator:4259 - IP not found : null
+2025-10-27 22:23:07,389 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\main.h_save
+2025-10-27 22:23:07,739 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\main.h
+2025-10-27 22:23:07,760 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\main.c_save
+2025-10-27 22:23:08,442 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\main.c
+2025-10-27 22:23:10,018 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 997mS.
+2025-10-27 22:23:10,032 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-10-27 22:23:10,243 [INFO] ConfigFileManager:1595 - The Die is : DIE413
+2025-10-27 22:23:15,313 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 5281mS.
+2025-10-27 22:23:15,320 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 2mS.
+2025-10-27 22:23:15,369 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 6mS.
+2025-10-27 22:43:25,231 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 883956496 Bytes (1073741824)
+2025-10-27 22:43:25,684 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 909520512 Bytes (1073741824)
+2025-10-27 22:43:27,577 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 692247360 Bytes (1073741824)
+2025-10-27 22:43:30,749 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: FREERTOS
+2025-10-27 22:43:30,749 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-10-27 22:43:30,749 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-10-27 22:43:30,750 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: ADC
+2025-10-27 22:43:30,750 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-10-27 22:43:30,750 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2C
+2025-10-27 22:43:30,750 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-10-27 22:43:30,750 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2025-10-27 22:43:30,751 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-10-27 22:43:30,756 [INFO] CodeGenerator:892 - code generatio: config db path: D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-10-27 22:43:30,793 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-27 22:43:30,793 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-27 22:43:31,020 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\license.tmp_save
+2025-10-27 22:43:31,229 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\license.tmp
+2025-10-27 22:43:31,315 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\gpio.tmp_save
+2025-10-27 22:43:31,544 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\gpio.tmp
+2025-10-27 22:43:32,027 [INFO] Middleware:1452 - No code input for Bsp Dependency
+2025-10-27 22:43:32,058 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_inc.tmp_save
+2025-10-27 22:43:32,247 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_inc.tmp
+2025-10-27 22:43:32,269 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelInit.tmp_save
+2025-10-27 22:43:32,454 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelInit.tmp
+2025-10-27 22:43:32,476 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelStart.tmp_save
+2025-10-27 22:43:32,663 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelStart.tmp
+2025-10-27 22:43:32,684 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_typedefs.tmp_save
+2025-10-27 22:43:32,901 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_typedefs.tmp
+2025-10-27 22:43:32,918 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_vars.tmp_save
+2025-10-27 22:43:33,139 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_vars.tmp
+2025-10-27 22:43:33,158 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_pfp.tmp_save
+2025-10-27 22:43:33,353 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_pfp.tmp
+2025-10-27 22:43:33,370 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_obj_creat.tmp_save
+2025-10-27 22:43:33,621 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_obj_creat.tmp
+2025-10-27 22:43:33,641 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_default_thread.tmp_save
+2025-10-27 22:43:33,836 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_default_thread.tmp
+2025-10-27 22:43:33,855 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_threads.tmp_save
+2025-10-27 22:43:34,065 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_threads.tmp
+2025-10-27 22:43:34,126 [INFO] Middleware:1452 - No code input for Bsp Dependency
+2025-10-27 22:43:34,158 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_inc.tmp_save
+2025-10-27 22:43:34,305 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_inc.tmp
+2025-10-27 22:43:34,326 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelInit.tmp_save
+2025-10-27 22:43:34,473 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelInit.tmp
+2025-10-27 22:43:34,492 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelStart.tmp_save
+2025-10-27 22:43:34,630 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelStart.tmp
+2025-10-27 22:43:34,649 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_typedefs.tmp_save
+2025-10-27 22:43:34,795 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_typedefs.tmp
+2025-10-27 22:43:34,817 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_vars.tmp_save
+2025-10-27 22:43:34,959 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_vars.tmp
+2025-10-27 22:43:34,978 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_pfp.tmp_save
+2025-10-27 22:43:35,123 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_pfp.tmp
+2025-10-27 22:43:35,140 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_obj_creat.tmp_save
+2025-10-27 22:43:35,284 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_obj_creat.tmp
+2025-10-27 22:43:35,308 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_default_thread.tmp_save
+2025-10-27 22:43:35,454 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_default_thread.tmp
+2025-10-27 22:43:35,470 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_threads.tmp_save
+2025-10-27 22:43:35,609 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_threads.tmp
+2025-10-27 22:43:35,629 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\FreeRTOSConfig.h_save
+2025-10-27 22:43:35,826 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\FreeRTOSConfig.h
+2025-10-27 22:43:35,847 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\freertos.c_save
+2025-10-27 22:43:36,015 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\freertos.c
+2025-10-27 22:43:36,075 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_it.c_save
+2025-10-27 22:43:36,591 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_it.c
+2025-10-27 22:43:36,613 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_it.h_save
+2025-10-27 22:43:36,809 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_it.h
+2025-10-27 22:43:36,860 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_hal_msp.c_save
+2025-10-27 22:43:37,158 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_hal_msp.c
+2025-10-27 22:43:37,176 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\system.tmp_save
+2025-10-27 22:43:37,308 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\system.tmp
+2025-10-27 22:43:37,378 [INFO] CodeEngine:321 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-10-27 22:43:37,547 [INFO] CodeEngine:345 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_hal_conf.h
+2025-10-27 22:43:37,614 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-10-27 22:43:37,617 [WARN] CodeGenerator:4259 - IP not found : null
+2025-10-27 22:43:37,655 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\main.h_save
+2025-10-27 22:43:37,908 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\main.h
+2025-10-27 22:43:37,936 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\main.c_save
+2025-10-27 22:43:38,278 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\main.c
+2025-10-27 22:43:40,127 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 1268mS.
+2025-10-27 22:43:40,140 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-10-27 22:43:40,328 [INFO] ConfigFileManager:1595 - The Die is : DIE413
+2025-10-27 22:43:43,790 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 3650mS.
+2025-10-27 22:43:43,792 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-10-27 22:43:43,814 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-10-27 22:50:53,412 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 743183024 Bytes (1073741824)
+2025-10-27 22:50:53,667 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 768348848 Bytes (1073741824)
+2025-10-27 22:50:55,274 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 863242928 Bytes (1073741824)
+2025-10-27 22:51:03,137 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: FREERTOS
+2025-10-27 22:51:03,138 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-10-27 22:51:03,138 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-10-27 22:51:03,138 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: ADC
+2025-10-27 22:51:03,138 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-10-27 22:51:03,138 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2C
+2025-10-27 22:51:03,138 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-10-27 22:51:03,138 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2025-10-27 22:51:03,139 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-10-27 22:51:03,143 [INFO] CodeGenerator:892 - code generatio: config db path: D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-10-27 22:51:03,198 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-27 22:51:03,198 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-27 22:51:03,405 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\license.tmp_save
+2025-10-27 22:51:03,696 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\license.tmp
+2025-10-27 22:51:03,786 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\gpio.tmp_save
+2025-10-27 22:51:03,984 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\gpio.tmp
+2025-10-27 22:51:04,484 [INFO] Middleware:1452 - No code input for Bsp Dependency
+2025-10-27 22:51:04,522 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_inc.tmp_save
+2025-10-27 22:51:04,748 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_inc.tmp
+2025-10-27 22:51:04,764 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelInit.tmp_save
+2025-10-27 22:51:04,948 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelInit.tmp
+2025-10-27 22:51:04,965 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelStart.tmp_save
+2025-10-27 22:51:05,115 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelStart.tmp
+2025-10-27 22:51:05,128 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_typedefs.tmp_save
+2025-10-27 22:51:05,257 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_typedefs.tmp
+2025-10-27 22:51:05,268 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_vars.tmp_save
+2025-10-27 22:51:05,410 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_vars.tmp
+2025-10-27 22:51:05,423 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_pfp.tmp_save
+2025-10-27 22:51:05,560 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_pfp.tmp
+2025-10-27 22:51:05,574 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_obj_creat.tmp_save
+2025-10-27 22:51:05,737 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_obj_creat.tmp
+2025-10-27 22:51:05,756 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_default_thread.tmp_save
+2025-10-27 22:51:05,925 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_default_thread.tmp
+2025-10-27 22:51:05,940 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_threads.tmp_save
+2025-10-27 22:51:06,086 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_threads.tmp
+2025-10-27 22:51:06,140 [INFO] Middleware:1452 - No code input for Bsp Dependency
+2025-10-27 22:51:06,168 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_inc.tmp_save
+2025-10-27 22:51:06,325 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_inc.tmp
+2025-10-27 22:51:06,346 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelInit.tmp_save
+2025-10-27 22:51:06,493 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelInit.tmp
+2025-10-27 22:51:06,512 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelStart.tmp_save
+2025-10-27 22:51:06,655 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_kernelStart.tmp
+2025-10-27 22:51:06,673 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_typedefs.tmp_save
+2025-10-27 22:51:06,799 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_typedefs.tmp
+2025-10-27 22:51:06,818 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_vars.tmp_save
+2025-10-27 22:51:06,996 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_vars.tmp
+2025-10-27 22:51:07,019 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_pfp.tmp_save
+2025-10-27 22:51:07,147 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_pfp.tmp
+2025-10-27 22:51:07,166 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_obj_creat.tmp_save
+2025-10-27 22:51:07,299 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_obj_creat.tmp
+2025-10-27 22:51:07,317 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_default_thread.tmp_save
+2025-10-27 22:51:07,450 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_default_thread.tmp
+2025-10-27 22:51:07,470 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_threads.tmp_save
+2025-10-27 22:51:07,607 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\rtos_threads.tmp
+2025-10-27 22:51:07,627 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\FreeRTOSConfig.h_save
+2025-10-27 22:51:07,824 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\FreeRTOSConfig.h
+2025-10-27 22:51:07,846 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\freertos.c_save
+2025-10-27 22:51:08,004 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\freertos.c
+2025-10-27 22:51:08,068 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_it.c_save
+2025-10-27 22:51:08,492 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_it.c
+2025-10-27 22:51:08,511 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_it.h_save
+2025-10-27 22:51:08,672 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_it.h
+2025-10-27 22:51:08,717 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_hal_msp.c_save
+2025-10-27 22:51:09,017 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_hal_msp.c
+2025-10-27 22:51:09,033 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\system.tmp_save
+2025-10-27 22:51:09,174 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\system.tmp
+2025-10-27 22:51:09,208 [INFO] CodeEngine:321 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-10-27 22:51:09,379 [INFO] CodeEngine:345 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_hal_conf.h
+2025-10-27 22:51:09,432 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-10-27 22:51:09,433 [WARN] CodeGenerator:4259 - IP not found : null
+2025-10-27 22:51:09,461 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\main.h_save
+2025-10-27 22:51:09,693 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\main.h
+2025-10-27 22:51:09,714 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\main.c_save
+2025-10-27 22:51:10,045 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\main.c
+2025-10-27 22:51:11,451 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 893mS.
+2025-10-27 22:51:11,474 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-10-27 22:51:11,680 [INFO] ConfigFileManager:1595 - The Die is : DIE413
+2025-10-27 22:51:15,405 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 3931mS.
+2025-10-27 22:51:15,408 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-10-27 22:51:15,434 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.

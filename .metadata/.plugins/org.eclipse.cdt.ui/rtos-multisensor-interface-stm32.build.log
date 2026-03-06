@@ -1,0 +1,373 @@
+22:28:38 **** Incremental Build of configuration Debug for project rtos-multisensor-interface-stm32 ****
+make -j4 all 
+arm-none-eabi-gcc "../Core/TraceRecorder/streamports/UART/trcStreamPort.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xB -c -I../Core/Inc -I../Core/TraceRecorder/streamports/UART -I../Core/TraceRecorder/config -I../Core/TraceRecorder -I../Core/TraceRecorder/include -I../Core/FreeRTOS/portable/GCC/ARM_CM3 -I../Core/FreeRTOS/include -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Core/FreeRTOS -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/TraceRecorder/streamports/UART/trcStreamPort.d" -MT"Core/TraceRecorder/streamports/UART/trcStreamPort.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/TraceRecorder/streamports/UART/trcStreamPort.o"
+arm-none-eabi-gcc "../Core/TraceRecorder/trcAssert.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xB -c -I../Core/Inc -I../Core/TraceRecorder/streamports/UART -I../Core/TraceRecorder/config -I../Core/TraceRecorder -I../Core/TraceRecorder/include -I../Core/FreeRTOS/portable/GCC/ARM_CM3 -I../Core/FreeRTOS/include -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Core/FreeRTOS -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/TraceRecorder/trcAssert.d" -MT"Core/TraceRecorder/trcAssert.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/TraceRecorder/trcAssert.o"
+arm-none-eabi-gcc "../Core/TraceRecorder/trcCounter.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xB -c -I../Core/Inc -I../Core/TraceRecorder/streamports/UART -I../Core/TraceRecorder/config -I../Core/TraceRecorder -I../Core/TraceRecorder/include -I../Core/FreeRTOS/portable/GCC/ARM_CM3 -I../Core/FreeRTOS/include -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Core/FreeRTOS -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/TraceRecorder/trcCounter.d" -MT"Core/TraceRecorder/trcCounter.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/TraceRecorder/trcCounter.o"
+arm-none-eabi-gcc "../Core/TraceRecorder/trcDependency.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xB -c -I../Core/Inc -I../Core/TraceRecorder/streamports/UART -I../Core/TraceRecorder/config -I../Core/TraceRecorder -I../Core/TraceRecorder/include -I../Core/FreeRTOS/portable/GCC/ARM_CM3 -I../Core/FreeRTOS/include -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Core/FreeRTOS -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/TraceRecorder/trcDependency.d" -MT"Core/TraceRecorder/trcDependency.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/TraceRecorder/trcDependency.o"
+In file included from ../Core/TraceRecorder/streamports/UART/trcStreamPort.c:7:
+../Core/TraceRecorder/streamports/UART/trcStreamPort.h:11:1: error: unknown type name 'traceResult'
+   11 | traceResult xTraceStreamPortPutChar(traceChar ch) {
+      | ^~~~~~~~~~~
+In file included from ../Core/TraceRecorder/include/trcRecorder.h:32,
+                 from ../Core/TraceRecorder/trcAssert.c:11:
+../Core/TraceRecorder/config/trcConfig.h:69: warning: "TRC_CFG_HARDWARE_PORT" redefined
+   69 | #define TRC_CFG_HARDWARE_PORT TRC_HARDWARE_PORT_APPLICATION_DEFINED  // For custom UART
+      | 
+../Core/TraceRecorder/config/trcConfig.h:45: note: this is the location of the previous definition
+   45 | #define TRC_CFG_HARDWARE_PORT TRC_HARDWARE_PORT_NOT_SET
+      | 
+../Core/TraceRecorder/streamports/UART/trcStreamPort.h:11:37: error: unknown type name 'traceChar'
+   11 | traceResult xTraceStreamPortPutChar(traceChar ch) {
+      |                                     ^~~~~~~~~
+In file included from ../Core/TraceRecorder/include/trcRecorder.h:33:
+../Core/TraceRecorder/config/trcKernelPortConfig.h:70: warning: "TRC_CFG_FREERTOS_VERSION" redefined
+   70 | #define TRC_CFG_FREERTOS_VERSION FREERTOS_VERSION_NOT_SET
+      | 
+../Core/TraceRecorder/config/trcKernelPortConfig.h:33: note: this is the location of the previous definition
+   33 | #define TRC_CFG_FREERTOS_VERSION 10.0.0  // For FreeRTOS v10.x LTS
+      | 
+In file included from ../Core/TraceRecorder/include/trcTypes.h:16,
+                 from ../Core/TraceRecorder/include/trcRecorder.h:44:
+../Core/TraceRecorder/include/trcHardwarePort.h:717:18: error: #error "The hardware port is not completely defined!"
+  717 |                 #error "The hardware port is not completely defined!"
+      |                  ^~~~~
+../Core/TraceRecorder/include/trcHardwarePort.h:759:10: error: #error "TRC_HWTC_TYPE is not set!"
+  759 |         #error "TRC_HWTC_TYPE is not set!"
+      |          ^~~~~
+../Core/TraceRecorder/include/trcHardwarePort.h:763:10: error: #error "TRC_HWTC_COUNT is not set!"
+  763 |         #error "TRC_HWTC_COUNT is not set!"
+      |          ^~~~~
+../Core/TraceRecorder/include/trcHardwarePort.h:767:10: error: #error "TRC_HWTC_PERIOD is not set!"
+  767 |         #error "TRC_HWTC_PERIOD is not set!"
+      |          ^~~~~
+../Core/TraceRecorder/include/trcHardwarePort.h:775:10: error: #error "TRC_IRQ_PRIORITY_ORDER is not set!"
+  775 |         #error "TRC_IRQ_PRIORITY_ORDER is not set!"
+      |          ^~~~~
+../Core/TraceRecorder/include/trcHardwarePort.h:785:10: error: #error "TRC_HWTC_FREQ_HZ not defined!"
+  785 |         #error "TRC_HWTC_FREQ_HZ not defined!"
+      |          ^~~~~
+../Core/TraceRecorder/streamports/UART/trcStreamPort.h:18:1: error: unknown type name 'traceResult'
+   18 | traceResult xTraceStreamPortPutArray(const traceChar* pBuffer, uint32_t size) {
+      | ^~~~~~~~~~~
+../Core/TraceRecorder/streamports/UART/trcStreamPort.h:18:44: error: unknown type name 'traceChar'
+   18 | traceResult xTraceStreamPortPutArray(const traceChar* pBuffer, uint32_t size) {
+      |                                            ^~~~~~~~~
+In file included from ../Core/TraceRecorder/include/trcRecorder.h:32,
+                 from ../Core/TraceRecorder/trcDependency.c:10:
+../Core/TraceRecorder/config/trcConfig.h:69: warning: "TRC_CFG_HARDWARE_PORT" redefined
+   69 | #define TRC_CFG_HARDWARE_PORT TRC_HARDWARE_PORT_APPLICATION_DEFINED  // For custom UART
+      | 
+../Core/TraceRecorder/config/trcConfig.h:45: note: this is the location of the previous definition
+   45 | #define TRC_CFG_HARDWARE_PORT TRC_HARDWARE_PORT_NOT_SET
+      | 
+In file included from ../Core/TraceRecorder/include/trcRecorder.h:33:
+../Core/TraceRecorder/config/trcKernelPortConfig.h:70: warning: "TRC_CFG_FREERTOS_VERSION" redefined
+   70 | #define TRC_CFG_FREERTOS_VERSION FREERTOS_VERSION_NOT_SET
+      | 
+../Core/TraceRecorder/config/trcKernelPortConfig.h:33: note: this is the location of the previous definition
+   33 | #define TRC_CFG_FREERTOS_VERSION 10.0.0  // For FreeRTOS v10.x LTS
+      | 
+In file included from ../Core/TraceRecorder/include/trcTypes.h:16,
+                 from ../Core/TraceRecorder/include/trcRecorder.h:44:
+../Core/TraceRecorder/include/trcHardwarePort.h:717:18: error: #error "The hardware port is not completely defined!"
+  717 |                 #error "The hardware port is not completely defined!"
+      |                  ^~~~~
+../Core/TraceRecorder/include/trcHardwarePort.h:759:10: error: #error "TRC_HWTC_TYPE is not set!"
+  759 |         #error "TRC_HWTC_TYPE is not set!"
+      |          ^~~~~
+../Core/TraceRecorder/include/trcHardwarePort.h:763:10: error: #error "TRC_HWTC_COUNT is not set!"
+  763 |         #error "TRC_HWTC_COUNT is not set!"
+      |          ^~~~~
+../Core/TraceRecorder/include/trcHardwarePort.h:767:10: error: #error "TRC_HWTC_PERIOD is not set!"
+  767 |         #error "TRC_HWTC_PERIOD is not set!"
+      |          ^~~~~
+../Core/TraceRecorder/include/trcHardwarePort.h:775:10: error: #error "TRC_IRQ_PRIORITY_ORDER is not set!"
+  775 |         #error "TRC_IRQ_PRIORITY_ORDER is not set!"
+      |          ^~~~~
+../Core/TraceRecorder/include/trcHardwarePort.h:785:10: error: #error "TRC_HWTC_FREQ_HZ not defined!"
+  785 |         #error "TRC_HWTC_FREQ_HZ not defined!"
+      |          ^~~~~
+../Core/TraceRecorder/streamports/UART/trcStreamPort.h: In function 'xTraceStreamPortPutArray':
+../Core/TraceRecorder/streamports/UART/trcStreamPort.h:19:24: error: 'huart3' undeclared (first use in this function)
+   19 |     HAL_UART_Transmit(&huart3, (uint8_t*)pBuffer, size, 1000);
+      |                        ^~~~~~
+../Core/TraceRecorder/streamports/UART/trcStreamPort.h:19:24: note: each undeclared identifier is reported only once for each function it appears in
+In file included from ../Core/TraceRecorder/include/trcRecorder.h:135:
+../Core/TraceRecorder/include/trcKernelPort.h:120:2: error: #error "Please set TRC_CFG_FREERTOS_VERSION in trcKernelPortConfig.h to the FreeRTOS version used."
+  120 | #error "Please set TRC_CFG_FREERTOS_VERSION in trcKernelPortConfig.h to the FreeRTOS version used."
+      |  ^~~~~
+../Core/TraceRecorder/streamports/UART/trcStreamPort.h:20:12: error: 'TRC_SUCCESS' undeclared (first use in this function); did you mean 'NOR_SUCCESS'?
+   20 |     return TRC_SUCCESS;
+      |            ^~~~~~~~~~~
+      |            NOR_SUCCESS
+../Core/TraceRecorder/streamports/UART/trcStreamPort.h:21:1: warning: control reaches end of non-void function [-Wreturn-type]
+   21 | }
+      | ^
+In file included from ../Core/TraceRecorder/include/trcRecorder.h:32,
+                 from ../Core/TraceRecorder/trcCounter.c:11:
+../Core/TraceRecorder/config/trcConfig.h:69: warning: "TRC_CFG_HARDWARE_PORT" redefined
+   69 | #define TRC_CFG_HARDWARE_PORT TRC_HARDWARE_PORT_APPLICATION_DEFINED  // For custom UART
+      | 
+../Core/TraceRecorder/config/trcConfig.h:45: note: this is the location of the previous definition
+   45 | #define TRC_CFG_HARDWARE_PORT TRC_HARDWARE_PORT_NOT_SET
+      | 
+In file included from ../Core/TraceRecorder/include/trcRecorder.h:33:
+../Core/TraceRecorder/config/trcKernelPortConfig.h:70: warning: "TRC_CFG_FREERTOS_VERSION" redefined
+   70 | #define TRC_CFG_FREERTOS_VERSION FREERTOS_VERSION_NOT_SET
+      | 
+../Core/TraceRecorder/config/trcKernelPortConfig.h:33: note: this is the location of the previous definition
+   33 | #define TRC_CFG_FREERTOS_VERSION 10.0.0  // For FreeRTOS v10.x LTS
+      | 
+In file included from ../Core/TraceRecorder/include/trcTypes.h:16,
+                 from ../Core/TraceRecorder/include/trcRecorder.h:44:
+../Core/TraceRecorder/include/trcHardwarePort.h:717:18: error: #error "The hardware port is not completely defined!"
+  717 |                 #error "The hardware port is not completely defined!"
+      |                  ^~~~~
+../Core/TraceRecorder/include/trcHardwarePort.h:759:10: error: #error "TRC_HWTC_TYPE is not set!"
+  759 |         #error "TRC_HWTC_TYPE is not set!"
+      |          ^~~~~
+../Core/TraceRecorder/include/trcHardwarePort.h:763:10: error: #error "TRC_HWTC_COUNT is not set!"
+  763 |         #error "TRC_HWTC_COUNT is not set!"
+      |          ^~~~~
+../Core/TraceRecorder/include/trcHardwarePort.h:767:10: error: #error "TRC_HWTC_PERIOD is not set!"
+  767 |         #error "TRC_HWTC_PERIOD is not set!"
+      |          ^~~~~
+../Core/TraceRecorder/include/trcHardwarePort.h:775:10: error: #error "TRC_IRQ_PRIORITY_ORDER is not set!"
+  775 |         #error "TRC_IRQ_PRIORITY_ORDER is not set!"
+      |          ^~~~~
+../Core/TraceRecorder/include/trcHardwarePort.h:785:10: error: #error "TRC_HWTC_FREQ_HZ not defined!"
+  785 |         #error "TRC_HWTC_FREQ_HZ not defined!"
+      |          ^~~~~
+In file included from ../Core/TraceRecorder/include/trcRecorder.h:135:
+../Core/TraceRecorder/include/trcKernelPort.h:120:2: error: #error "Please set TRC_CFG_FREERTOS_VERSION in trcKernelPortConfig.h to the FreeRTOS version used."
+  120 | #error "Please set TRC_CFG_FREERTOS_VERSION in trcKernelPortConfig.h to the FreeRTOS version used."
+      |  ^~~~~
+In file included from ../Core/TraceRecorder/include/../streamports/UART/trcStreamPort.h:4,
+                 from ../Core/TraceRecorder/include/trcRecorder.h:144:
+../Core/TraceRecorder/include/../streamports/UART/trcPortDefines.h:57: warning: "TRC_START" redefined
+   57 | #define TRC_START 1
+      | 
+In file included from ../Core/TraceRecorder/include/trcRecorder.h:31:
+../Core/TraceRecorder/include/trcDefines.h:30: note: this is the location of the previous definition
+   30 | #define TRC_START                               1UL
+      | 
+../Core/TraceRecorder/include/../streamports/UART/trcPortDefines.h:58: warning: "TRC_START_AWAIT_HOST" redefined
+   58 | #define TRC_START_AWAIT_HOST 2
+      | 
+../Core/TraceRecorder/include/trcDefines.h:31: note: this is the location of the previous definition
+   31 | #define TRC_START_AWAIT_HOST    2UL
+      | 
+../Core/TraceRecorder/include/../streamports/UART/trcPortDefines.h:69: warning: "TRC_RECORDER_BUFFER_ALLOCATION_STATIC" redefined
+   69 | #define TRC_RECORDER_BUFFER_ALLOCATION_STATIC   (0x00)
+      | 
+../Core/TraceRecorder/include/trcDefines.h:47: note: this is the location of the previous definition
+   47 | #define TRC_RECORDER_BUFFER_ALLOCATION_STATIC   (0x00UL)
+      | 
+../Core/TraceRecorder/include/../streamports/UART/trcPortDefines.h:70: warning: "TRC_RECORDER_BUFFER_ALLOCATION_DYNAMIC" redefined
+   70 | #define TRC_RECORDER_BUFFER_ALLOCATION_DYNAMIC  (0x01)
+      | 
+../Core/TraceRecorder/include/trcDefines.h:48: note: this is the location of the previous definition
+   48 | #define TRC_RECORDER_BUFFER_ALLOCATION_DYNAMIC  (0x01UL)
+      | 
+../Core/TraceRecorder/include/../streamports/UART/trcPortDefines.h:71: warning: "TRC_RECORDER_BUFFER_ALLOCATION_CUSTOM" redefined
+   71 | #define TRC_RECORDER_BUFFER_ALLOCATION_CUSTOM   (0x02)
+      | 
+../Core/TraceRecorder/include/trcDefines.h:49: note: this is the location of the previous definition
+   49 | #define TRC_RECORDER_BUFFER_ALLOCATION_CUSTOM   (0x02UL)
+      | 
+../Core/TraceRecorder/include/../streamports/UART/trcPortDefines.h:133: warning: "TRC_HARDWARE_PORT_NXP_LPC210X" redefined
+  133 | #define TRC_HARDWARE_PORT_NXP_LPC210X                                   14      /*      No                      Any                                     */
+      | 
+../Core/TraceRecorder/include/trcDefines.h:188: note: this is the location of the previous definition
+  188 | #define TRC_HARDWARE_PORT_NXP_LPC210X                           15      /*      No                      Any                                     */
+      | 
+In file included from ../Core/TraceRecorder/include/trcRecorder.h:135:
+../Core/TraceRecorder/include/trcKernelPort.h:120:2: error: #error "Please set TRC_CFG_FREERTOS_VERSION in trcKernelPortConfig.h to the FreeRTOS version used."
+  120 | #error "Please set TRC_CFG_FREERTOS_VERSION in trcKernelPortConfig.h to the FreeRTOS version used."
+      |  ^~~~~
+../Core/TraceRecorder/include/../streamports/UART/trcPortDefines.h:134: warning: "TRC_HARDWARE_PORT_ARM_CORTEX_A9" redefined
+  134 | #define TRC_HARDWARE_PORT_ARM_CORTEX_A9                                 15      /*      Yes                     Any                                     */
+      | 
+../Core/TraceRecorder/include/trcDefines.h:189: note: this is the location of the previous definition
+  189 | #define TRC_HARDWARE_PORT_ARM_CORTEX_A9                         16      /*      Yes                     Any                                     */
+      | 
+../Core/TraceRecorder/include/../streamports/UART/trcPortDefines.h:135: warning: "TRC_HARDWARE_PORT_POWERPC_Z4" redefined
+  135 | #define TRC_HARDWARE_PORT_POWERPC_Z4                    16  /*  No          FreeRTOS            */
+      | 
+../Core/TraceRecorder/include/trcDefines.h:190: note: this is the location of the previous definition
+  190 | #define TRC_HARDWARE_PORT_POWERPC_Z4                            17      /*      No                      FreeRTOS                                */
+      | 
+../Core/TraceRecorder/include/../streamports/UART/trcPortDefines.h:136: warning: "TRC_HARDWARE_PORT_Altera_NiosII" redefined
+  136 | #define TRC_HARDWARE_PORT_Altera_NiosII                                 17  /*  No          Any                 */
+      | 
+../Core/TraceRecorder/include/trcDefines.h:191: note: this is the location of the previous definition
+  191 | #define TRC_HARDWARE_PORT_Altera_NiosII                         18      /*      Yes                     Any (Tested with FreeRTOS)              */
+      | 
+../Core/TraceRecorder/include/../streamports/UART/trcStreamPort.h:11:37: error: unknown type name 'traceChar'
+   11 | traceResult xTraceStreamPortPutChar(traceChar ch) {
+      |                                     ^~~~~~~~~
+../Core/TraceRecorder/include/../streamports/UART/trcStreamPort.h:18:44: error: unknown type name 'traceChar'
+   18 | traceResult xTraceStreamPortPutArray(const traceChar* pBuffer, uint32_t size) {
+      |                                            ^~~~~~~~~
+../Core/TraceRecorder/include/../streamports/UART/trcStreamPort.h: In function 'xTraceStreamPortPutArray':
+../Core/TraceRecorder/include/../streamports/UART/trcStreamPort.h:19:24: error: 'huart3' undeclared (first use in this function)
+   19 |     HAL_UART_Transmit(&huart3, (uint8_t*)pBuffer, size, 1000);
+      |                        ^~~~~~
+../Core/TraceRecorder/include/../streamports/UART/trcStreamPort.h:19:24: note: each undeclared identifier is reported only once for each function it appears in
+In file included from ../Core/TraceRecorder/include/../streamports/UART/trcStreamPort.h:4,
+                 from ../Core/TraceRecorder/include/trcRecorder.h:144:
+../Core/TraceRecorder/include/../streamports/UART/trcPortDefines.h:57: warning: "TRC_START" redefined
+   57 | #define TRC_START 1
+      | 
+In file included from ../Core/TraceRecorder/include/trcRecorder.h:31:
+../Core/TraceRecorder/include/trcDefines.h:30: note: this is the location of the previous definition
+   30 | #define TRC_START                               1UL
+      | 
+../Core/TraceRecorder/include/../streamports/UART/trcPortDefines.h:58: warning: "TRC_START_AWAIT_HOST" redefined
+   58 | #define TRC_START_AWAIT_HOST 2
+      | 
+../Core/TraceRecorder/include/trcDefines.h:31: note: this is the location of the previous definition
+   31 | #define TRC_START_AWAIT_HOST    2UL
+      | 
+../Core/TraceRecorder/include/../streamports/UART/trcPortDefines.h:69: warning: "TRC_RECORDER_BUFFER_ALLOCATION_STATIC" redefined
+   69 | #define TRC_RECORDER_BUFFER_ALLOCATION_STATIC   (0x00)
+      | 
+../Core/TraceRecorder/include/trcDefines.h:47: note: this is the location of the previous definition
+   47 | #define TRC_RECORDER_BUFFER_ALLOCATION_STATIC   (0x00UL)
+      | 
+../Core/TraceRecorder/include/../streamports/UART/trcPortDefines.h:70: warning: "TRC_RECORDER_BUFFER_ALLOCATION_DYNAMIC" redefined
+   70 | #define TRC_RECORDER_BUFFER_ALLOCATION_DYNAMIC  (0x01)
+      | 
+../Core/TraceRecorder/include/trcDefines.h:48: note: this is the location of the previous definition
+   48 | #define TRC_RECORDER_BUFFER_ALLOCATION_DYNAMIC  (0x01UL)
+      | 
+../Core/TraceRecorder/include/../streamports/UART/trcPortDefines.h:71: warning: "TRC_RECORDER_BUFFER_ALLOCATION_CUSTOM" redefined
+   71 | #define TRC_RECORDER_BUFFER_ALLOCATION_CUSTOM   (0x02)
+      | 
+../Core/TraceRecorder/include/trcDefines.h:49: note: this is the location of the previous definition
+   49 | #define TRC_RECORDER_BUFFER_ALLOCATION_CUSTOM   (0x02UL)
+      | 
+../Core/TraceRecorder/include/../streamports/UART/trcPortDefines.h:133: warning: "TRC_HARDWARE_PORT_NXP_LPC210X" redefined
+  133 | #define TRC_HARDWARE_PORT_NXP_LPC210X                                   14      /*      No                      Any                                     */
+      | 
+../Core/TraceRecorder/include/trcDefines.h:188: note: this is the location of the previous definition
+  188 | #define TRC_HARDWARE_PORT_NXP_LPC210X                           15      /*      No                      Any                                     */
+      | 
+../Core/TraceRecorder/include/../streamports/UART/trcPortDefines.h:134: warning: "TRC_HARDWARE_PORT_ARM_CORTEX_A9" redefined
+  134 | #define TRC_HARDWARE_PORT_ARM_CORTEX_A9                                 15      /*      Yes                     Any                                     */
+      | 
+../Core/TraceRecorder/include/trcDefines.h:189: note: this is the location of the previous definition
+  189 | #define TRC_HARDWARE_PORT_ARM_CORTEX_A9                         16      /*      Yes                     Any                                     */
+      | 
+../Core/TraceRecorder/include/../streamports/UART/trcPortDefines.h:135: warning: "TRC_HARDWARE_PORT_POWERPC_Z4" redefined
+  135 | #define TRC_HARDWARE_PORT_POWERPC_Z4                    16  /*  No          FreeRTOS            */
+      | 
+../Core/TraceRecorder/include/trcDefines.h:190: note: this is the location of the previous definition
+  190 | #define TRC_HARDWARE_PORT_POWERPC_Z4                            17      /*      No                      FreeRTOS                                */
+      | 
+../Core/TraceRecorder/include/../streamports/UART/trcPortDefines.h:136: warning: "TRC_HARDWARE_PORT_Altera_NiosII" redefined
+  136 | #define TRC_HARDWARE_PORT_Altera_NiosII                                 17  /*  No          Any                 */
+      | 
+../Core/TraceRecorder/include/trcDefines.h:191: note: this is the location of the previous definition
+  191 | #define TRC_HARDWARE_PORT_Altera_NiosII                         18      /*      Yes                     Any (Tested with FreeRTOS)              */
+      | 
+In file included from ../Core/TraceRecorder/include/../streamports/UART/trcStreamPort.h:4,
+                 from ../Core/TraceRecorder/include/trcRecorder.h:144:
+../Core/TraceRecorder/include/../streamports/UART/trcPortDefines.h:57: warning: "TRC_START" redefined
+   57 | #define TRC_START 1
+      | 
+In file included from ../Core/TraceRecorder/include/trcRecorder.h:31:
+../Core/TraceRecorder/include/trcDefines.h:30: note: this is the location of the previous definition
+   30 | #define TRC_START                               1UL
+      | 
+../Core/TraceRecorder/include/../streamports/UART/trcPortDefines.h:58: warning: "TRC_START_AWAIT_HOST" redefined
+   58 | #define TRC_START_AWAIT_HOST 2
+      | 
+../Core/TraceRecorder/include/trcDefines.h:31: note: this is the location of the previous definition
+   31 | #define TRC_START_AWAIT_HOST    2UL
+      | 
+../Core/TraceRecorder/include/../streamports/UART/trcPortDefines.h:69: warning: "TRC_RECORDER_BUFFER_ALLOCATION_STATIC" redefined
+   69 | #define TRC_RECORDER_BUFFER_ALLOCATION_STATIC   (0x00)
+      | 
+../Core/TraceRecorder/include/trcDefines.h:47: note: this is the location of the previous definition
+   47 | #define TRC_RECORDER_BUFFER_ALLOCATION_STATIC   (0x00UL)
+      | 
+../Core/TraceRecorder/include/../streamports/UART/trcPortDefines.h:70: warning: "TRC_RECORDER_BUFFER_ALLOCATION_DYNAMIC" redefined
+   70 | #define TRC_RECORDER_BUFFER_ALLOCATION_DYNAMIC  (0x01)
+      | 
+../Core/TraceRecorder/include/trcDefines.h:48: note: this is the location of the previous definition
+   48 | #define TRC_RECORDER_BUFFER_ALLOCATION_DYNAMIC  (0x01UL)
+      | 
+../Core/TraceRecorder/include/../streamports/UART/trcPortDefines.h:71: warning: "TRC_RECORDER_BUFFER_ALLOCATION_CUSTOM" redefined
+   71 | #define TRC_RECORDER_BUFFER_ALLOCATION_CUSTOM   (0x02)
+      | 
+../Core/TraceRecorder/include/trcDefines.h:49: note: this is the location of the previous definition
+   49 | #define TRC_RECORDER_BUFFER_ALLOCATION_CUSTOM   (0x02UL)
+      | 
+../Core/TraceRecorder/include/../streamports/UART/trcStreamPort.h:11:37: error: unknown type name 'traceChar'
+   11 | traceResult xTraceStreamPortPutChar(traceChar ch) {
+      |                                     ^~~~~~~~~
+../Core/TraceRecorder/include/../streamports/UART/trcStreamPort.h:18:44: error: unknown type name 'traceChar'
+   18 | traceResult xTraceStreamPortPutArray(const traceChar* pBuffer, uint32_t size) {
+      |                                            ^~~~~~~~~
+../Core/TraceRecorder/include/../streamports/UART/trcStreamPort.h: In function 'xTraceStreamPortPutArray':
+../Core/TraceRecorder/include/../streamports/UART/trcStreamPort.h:19:24: error: 'huart3' undeclared (first use in this function)
+   19 |     HAL_UART_Transmit(&huart3, (uint8_t*)pBuffer, size, 1000);
+      |                        ^~~~~~
+../Core/TraceRecorder/include/../streamports/UART/trcStreamPort.h:19:24: note: each undeclared identifier is reported only once for each function it appears in
+../Core/TraceRecorder/include/trcRecorder.h: At top level:
+../Core/TraceRecorder/include/../streamports/UART/trcPortDefines.h:133: warning: "TRC_HARDWARE_PORT_NXP_LPC210X" redefined
+  133 | #define TRC_HARDWARE_PORT_NXP_LPC210X                                   14      /*      No                      Any                                     */
+      | 
+../Core/TraceRecorder/include/trcDefines.h:188: note: this is the location of the previous definition
+  188 | #define TRC_HARDWARE_PORT_NXP_LPC210X                           15      /*      No                      Any                                     */
+      | 
+../Core/TraceRecorder/include/../streamports/UART/trcPortDefines.h:134: warning: "TRC_HARDWARE_PORT_ARM_CORTEX_A9" redefined
+  134 | #define TRC_HARDWARE_PORT_ARM_CORTEX_A9                                 15      /*      Yes                     Any                                     */
+      | 
+../Core/TraceRecorder/include/trcRecorder.h:1640:9: error: unknown type name 'TraceStreamPortBuffer_t'
+ 1640 |         TraceStreamPortBuffer_t xStreamPortBuffer;              /* verify alignment in xTraceInitialize() */
+      |         ^~~~~~~~~~~~~~~~~~~~~~~
+make: *** [Core/TraceRecorder/streamports/UART/subdir.mk:19: Core/TraceRecorder/streamports/UART/trcStreamPort.o] Error 1
+make: *** Waiting for unfinished jobs....
+../Core/TraceRecorder/include/trcDefines.h:189: note: this is the location of the previous definition
+  189 | #define TRC_HARDWARE_PORT_ARM_CORTEX_A9                         16      /*      Yes                     Any                                     */
+      | 
+../Core/TraceRecorder/include/../streamports/UART/trcPortDefines.h:135: warning: "TRC_HARDWARE_PORT_POWERPC_Z4" redefined
+  135 | #define TRC_HARDWARE_PORT_POWERPC_Z4                    16  /*  No          FreeRTOS            */
+      | 
+../Core/TraceRecorder/include/trcDefines.h:190: note: this is the location of the previous definition
+  190 | #define TRC_HARDWARE_PORT_POWERPC_Z4                            17      /*      No                      FreeRTOS                                */
+      | 
+../Core/TraceRecorder/include/../streamports/UART/trcPortDefines.h:136: warning: "TRC_HARDWARE_PORT_Altera_NiosII" redefined
+  136 | #define TRC_HARDWARE_PORT_Altera_NiosII                                 17  /*  No          Any                 */
+      | 
+../Core/TraceRecorder/include/trcDefines.h:191: note: this is the location of the previous definition
+  191 | #define TRC_HARDWARE_PORT_Altera_NiosII                         18      /*      Yes                     Any (Tested with FreeRTOS)              */
+      | 
+../Core/TraceRecorder/include/../streamports/UART/trcStreamPort.h:11:37: error: unknown type name 'traceChar'
+   11 | traceResult xTraceStreamPortPutChar(traceChar ch) {
+      |                                     ^~~~~~~~~
+../Core/TraceRecorder/include/../streamports/UART/trcStreamPort.h:18:44: error: unknown type name 'traceChar'
+   18 | traceResult xTraceStreamPortPutArray(const traceChar* pBuffer, uint32_t size) {
+      |                                            ^~~~~~~~~
+../Core/TraceRecorder/include/../streamports/UART/trcStreamPort.h: In function 'xTraceStreamPortPutArray':
+../Core/TraceRecorder/include/../streamports/UART/trcStreamPort.h:19:24: error: 'huart3' undeclared (first use in this function)
+   19 |     HAL_UART_Transmit(&huart3, (uint8_t*)pBuffer, size, 1000);
+      |                        ^~~~~~
+../Core/TraceRecorder/include/../streamports/UART/trcStreamPort.h:19:24: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [Core/TraceRecorder/subdir.mk:97: Core/TraceRecorder/trcAssert.o] Error 1
+../Core/TraceRecorder/include/trcRecorder.h: At top level:
+../Core/TraceRecorder/include/trcRecorder.h:1640:9: error: unknown type name 'TraceStreamPortBuffer_t'
+ 1640 |         TraceStreamPortBuffer_t xStreamPortBuffer;              /* verify alignment in xTraceInitialize() */
+      |         ^~~~~~~~~~~~~~~~~~~~~~~
+make: *** [Core/TraceRecorder/subdir.mk:97: Core/TraceRecorder/trcDependency.o] Error 1
+../Core/TraceRecorder/include/trcRecorder.h: At top level:
+../Core/TraceRecorder/include/trcRecorder.h:1640:9: error: unknown type name 'TraceStreamPortBuffer_t'
+ 1640 |         TraceStreamPortBuffer_t xStreamPortBuffer;              /* verify alignment in xTraceInitialize() */
+      |         ^~~~~~~~~~~~~~~~~~~~~~~
+make: *** [Core/TraceRecorder/subdir.mk:97: Core/TraceRecorder/trcCounter.o] Error 1
+"make -j4 all" terminated with exit code 2. Build might be incomplete.
+
+22:28:42 Build Failed. 44 errors, 34 warnings. (took 4s.73ms)
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;FreeRTOS_EnvironmentalAlert/Core/Inc/MQ2.H&apos; to &apos;mq2.h&apos;" description="Rename resource &apos;MQ2.H&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Inc/MQ2.H" name="mq2.h" stamp="1761107098340" updateReferences="true"/>
+</session>

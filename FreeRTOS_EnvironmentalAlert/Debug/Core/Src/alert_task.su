@@ -1,0 +1,7 @@
+../Core/Src/alert_task.c:68:20:buzzer_off	8	static
+../Core/Src/alert_task.c:93:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/alert_task.c:102:6:alert_task_init	48	static
+../Core/Src/alert_task.c:119:21:evaluate_alert	4	static
+../Core/Src/alert_task.c:129:6:wait_for_uart_reset	16	static
+../Core/Src/alert_task.c:147:6:reset_alert_state	8	static
+../Core/Src/alert_task.c:163:6:vAlertTask	16	static

@@ -1,0 +1,10 @@
+../Core/Src/bmp280.c:18:13:i2c_ensure_ready	8	static
+../Core/Src/bmp280.c:29:26:i2c_scan	16	static
+../Core/Src/bmp280.c:46:26:read_chip_id	32	static
+../Core/Src/bmp280.c:58:26:write_reg	32	static
+../Core/Src/bmp280.c:69:26:read_regs	40	static
+../Core/Src/bmp280.c:79:13:compensation_params	96	static
+../Core/Src/bmp280.c:103:16:compensate_temp	152	static
+../Core/Src/bmp280.c:112:17:compensate_press	280	static
+../Core/Src/bmp280.c:137:6:BMP280_Init	8	static
+../Core/Src/bmp280.c:155:9:BMP280_Read	64	static

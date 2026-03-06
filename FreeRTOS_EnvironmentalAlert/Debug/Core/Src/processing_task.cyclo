@@ -1,0 +1,4 @@
+../Core/Src/processing_task.c:44:13:update_rolling_average	3
+../Core/Src/processing_task.c:71:12:detect_alert	7
+../Core/Src/processing_task.c:86:6:processing_task_init	1
+../Core/Src/processing_task.c:97:6:vProcessingTask	3

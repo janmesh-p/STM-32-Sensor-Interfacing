@@ -1,0 +1,457 @@
+21:34:53 **** Incremental Build of configuration Debug for project FreeRTOS_EnvironmentalAlert ****
+make -j4 all 
+arm-none-eabi-gcc "../Middlewares/Third_Party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F407xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -I"D:/stm32/FreeRTOS_EnvironmentalAlert/Middlewares/Third_Party/SEGGER/Config" -I"D:/stm32/FreeRTOS_EnvironmentalAlert/Middlewares/Third_Party/SEGGER/OS" -I"D:/stm32/FreeRTOS_EnvironmentalAlert/Middlewares/Third_Party/SEGGER/Patch" -I"D:/stm32/FreeRTOS_EnvironmentalAlert/Middlewares/Third_Party/SEGGER/Rec" -I"D:/stm32/FreeRTOS_EnvironmentalAlert/Middlewares/Third_Party/SEGGER/SEGGER" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Middlewares/Third_Party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.d" -MT"Middlewares/Third_Party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Middlewares/Third_Party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o"
+arm-none-eabi-gcc "../Middlewares/Third_Party/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F407xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -I"D:/stm32/FreeRTOS_EnvironmentalAlert/Middlewares/Third_Party/SEGGER/Config" -I"D:/stm32/FreeRTOS_EnvironmentalAlert/Middlewares/Third_Party/SEGGER/OS" -I"D:/stm32/FreeRTOS_EnvironmentalAlert/Middlewares/Third_Party/SEGGER/Patch" -I"D:/stm32/FreeRTOS_EnvironmentalAlert/Middlewares/Third_Party/SEGGER/Rec" -I"D:/stm32/FreeRTOS_EnvironmentalAlert/Middlewares/Third_Party/SEGGER/SEGGER" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Middlewares/Third_Party/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.d" -MT"Middlewares/Third_Party/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Middlewares/Third_Party/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o"
+arm-none-eabi-gcc "../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F407xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -I"D:/stm32/FreeRTOS_EnvironmentalAlert/Middlewares/Third_Party/SEGGER/Config" -I"D:/stm32/FreeRTOS_EnvironmentalAlert/Middlewares/Third_Party/SEGGER/OS" -I"D:/stm32/FreeRTOS_EnvironmentalAlert/Middlewares/Third_Party/SEGGER/Patch" -I"D:/stm32/FreeRTOS_EnvironmentalAlert/Middlewares/Third_Party/SEGGER/Rec" -I"D:/stm32/FreeRTOS_EnvironmentalAlert/Middlewares/Third_Party/SEGGER/SEGGER" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.d" -MT"Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o"
+arm-none-eabi-gcc "../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F407xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -I"D:/stm32/FreeRTOS_EnvironmentalAlert/Middlewares/Third_Party/SEGGER/Config" -I"D:/stm32/FreeRTOS_EnvironmentalAlert/Middlewares/Third_Party/SEGGER/OS" -I"D:/stm32/FreeRTOS_EnvironmentalAlert/Middlewares/Third_Party/SEGGER/Patch" -I"D:/stm32/FreeRTOS_EnvironmentalAlert/Middlewares/Third_Party/SEGGER/Rec" -I"D:/stm32/FreeRTOS_EnvironmentalAlert/Middlewares/Third_Party/SEGGER/SEGGER" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.d" -MT"Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.o"
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c: In function 'pxTaskGetStackStart':
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:123:1: warning: 'naked' attribute only applies to functions [-Wattributes]
+  123 | void xPortPendSVHandler( void ) __attribute__ (( naked ));
+      | ^~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:125:1: warning: 'naked' attribute only applies to functions [-Wattributes]
+  125 | void vPortSVCHandler( void ) __attribute__ (( naked ));
+      | ^~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:130:13: error: storage class specified for parameter 'prvPortStartFirstTask'
+  130 | static void prvPortStartFirstTask( void ) __attribute__ (( naked ));
+      |             ^~~~~~~~~~~~~~~~~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:130:1: warning: 'naked' attribute only applies to functions [-Wattributes]
+  130 | static void prvPortStartFirstTask( void ) __attribute__ (( naked ));
+      | ^~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:135:13: error: storage class specified for parameter 'vPortEnableVFP'
+  135 | static void vPortEnableVFP( void ) __attribute__ (( naked ));
+      |             ^~~~~~~~~~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:135:1: warning: 'naked' attribute only applies to functions [-Wattributes]
+  135 | static void vPortEnableVFP( void ) __attribute__ (( naked ));
+      | ^~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:140:13: error: storage class specified for parameter 'prvTaskExitError'
+  140 | static void prvTaskExitError( void );
+      |             ^~~~~~~~~~~~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:146:20: error: storage class specified for parameter 'uxCriticalNesting'
+  146 | static UBaseType_t uxCriticalNesting = 0xaaaaaaaa;
+      |                    ^~~~~~~~~~~~~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:146:1: error: parameter 'uxCriticalNesting' is initialized
+  146 | static UBaseType_t uxCriticalNesting = 0xaaaaaaaa;
+      | ^~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:177:25: error: storage class specified for parameter 'ucMaxSysCallPriority'
+  177 |          static uint8_t ucMaxSysCallPriority = 0;
+      |                         ^~~~~~~~~~~~~~~~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:177:10: error: parameter 'ucMaxSysCallPriority' is initialized
+  177 |          static uint8_t ucMaxSysCallPriority = 0;
+      |          ^~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:178:26: error: storage class specified for parameter 'ulMaxPRIGROUPValue'
+  178 |          static uint32_t ulMaxPRIGROUPValue = 0;
+      |                          ^~~~~~~~~~~~~~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:178:10: error: parameter 'ulMaxPRIGROUPValue' is initialized
+  178 |          static uint32_t ulMaxPRIGROUPValue = 0;
+      |          ^~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:179:48: error: storage class specified for parameter 'pcInterruptPriorityRegisters'
+  179 |          static const volatile uint8_t * const pcInterruptPriorityRegisters = ( const volatile uint8_t * const ) portNVIC_IP_REGISTERS_OFFSET_16;
+      |                                                ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:179:10: error: parameter 'pcInterruptPriorityRegisters' is initialized
+  179 |          static const volatile uint8_t * const pcInterruptPriorityRegisters = ( const volatile uint8_t * const ) portNVIC_IP_REGISTERS_OFFSET_16;
+      |          ^~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:188:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+  188 | {
+      | ^
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:218:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+  218 | {
+      | ^
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:243:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+  243 | {
+      | ^
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:262:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+  262 | {
+      | ^
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:288:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+  288 | {
+      | ^
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:396:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+  396 | {
+      | ^
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:404:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+  404 | {
+      | ^
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:421:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+  421 | {
+      | ^
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:432:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+  432 | {
+      | ^
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:489:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+  489 | {
+      | ^
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:685:1: error: expected declaration specifiers before '__attribute__'
+  685 | __attribute__(( weak )) void vPortSetupTimerInterrupt( void )
+      | ^~~~~~~~~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:708:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+  708 | {
+      | ^
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:724:9: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+  724 |         {
+      |         ^
+In file included from ../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:34:
+../Middlewares/Third_Party/FreeRTOS/Source/include/task.h:1488:10: error: old-style parameter declarations in prototyped function definition
+ 1488 | uint8_t* pxTaskGetStackStart( TaskHandle_t xTask) PRIVILEGED_FUNCTION
+      |          ^~~~~~~~~~~~~~~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:783: error: expected '{' at end of input
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:783: warning: control reaches end of non-void function [-Wreturn-type]
+../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c: In function 'pxTaskGetStackStart':
+../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:64:24: error: storage class specified for parameter 'ucHeap'
+   64 |         static uint8_t ucHeap[ configTOTAL_HEAP_SIZE ];
+      |                        ^~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:73:3: error: storage class specified for parameter 'BlockLink_t'
+   73 | } BlockLink_t;
+      |   ^~~~~~~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:83:41: error: expected declaration specifiers or '...' before 'BlockLink_t'
+   83 | static void prvInsertBlockIntoFreeList( BlockLink_t *pxBlockToInsert );
+      |                                         ^~~~~~~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:89:13: error: storage class specified for parameter 'prvHeapInit'
+   89 | static void prvHeapInit( void );
+      |             ^~~~~~~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:95:21: error: storage class specified for parameter 'xHeapStructSize'
+   95 | static const size_t xHeapStructSize     = ( sizeof( BlockLink_t ) + ( ( size_t ) ( portBYTE_ALIGNMENT - 1 ) ) ) & ~( ( size_t ) portBYTE_ALIGNMENT_MASK );
+      |                     ^~~~~~~~~~~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:95:1: error: parameter 'xHeapStructSize' is initialized
+   95 | static const size_t xHeapStructSize     = ( sizeof( BlockLink_t ) + ( ( size_t ) ( portBYTE_ALIGNMENT - 1 ) ) ) & ~( ( size_t ) portBYTE_ALIGNMENT_MASK );
+      | ^~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:98:20: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'xStart'
+   98 | static BlockLink_t xStart, *pxEnd = NULL;
+      |                    ^~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:102:15: error: storage class specified for parameter 'xFreeBytesRemaining'
+  102 | static size_t xFreeBytesRemaining = 0U;
+      |               ^~~~~~~~~~~~~~~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:102:1: error: parameter 'xFreeBytesRemaining' is initialized
+  102 | static size_t xFreeBytesRemaining = 0U;
+      | ^~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:103:15: error: storage class specified for parameter 'xMinimumEverFreeBytesRemaining'
+  103 | static size_t xMinimumEverFreeBytesRemaining = 0U;
+      |               ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:103:1: error: parameter 'xMinimumEverFreeBytesRemaining' is initialized
+  103 | static size_t xMinimumEverFreeBytesRemaining = 0U;
+      | ^~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:104:15: error: storage class specified for parameter 'xNumberOfSuccessfulAllocations'
+  104 | static size_t xNumberOfSuccessfulAllocations = 0;
+      |               ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:104:1: error: parameter 'xNumberOfSuccessfulAllocations' is initialized
+  104 | static size_t xNumberOfSuccessfulAllocations = 0;
+      | ^~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:105:15: error: storage class specified for parameter 'xNumberOfSuccessfulFrees'
+  105 | static size_t xNumberOfSuccessfulFrees = 0;
+      |               ^~~~~~~~~~~~~~~~~~~~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:105:1: error: parameter 'xNumberOfSuccessfulFrees' is initialized
+  105 | static size_t xNumberOfSuccessfulFrees = 0;
+      | ^~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:111:15: error: storage class specified for parameter 'xBlockAllocatedBit'
+  111 | static size_t xBlockAllocatedBit = 0;
+      |               ^~~~~~~~~~~~~~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:111:1: error: parameter 'xBlockAllocatedBit' is initialized
+  111 | static size_t xBlockAllocatedBit = 0;
+      | ^~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:116:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+  116 | {
+      | ^
+../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:267:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+  267 | {
+      | ^
+../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:316:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+  316 | {
+      | ^
+../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:322:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+  322 | {
+      | ^
+../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:328:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+  328 | {
+      | ^
+../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:334:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+  334 | {
+      | ^
+../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:381:41: error: expected declaration specifiers or '...' before 'BlockLink_t'
+  381 | static void prvInsertBlockIntoFreeList( BlockLink_t *pxBlockToInsert )
+      |                                         ^~~~~~~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:443:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+  443 | {
+      | ^
+In file included from ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:44:
+../Middlewares/Third_Party/FreeRTOS/Source/include/task.h:1488:10: error: old-style parameter declarations in prototyped function definition
+ 1488 | uint8_t* pxTaskGetStackStart( TaskHandle_t xTask) PRIVILEGED_FUNCTION
+      |          ^~~~~~~~~~~~~~~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:494: error: expected '{' at end of input
+../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:494: warning: control reaches end of non-void function [-Wreturn-type]
+In file included from D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:24,
+                 from D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/reent.h:16,
+                 from D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/string.h:11,
+                 from ../Middlewares/Third_Party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.c:58:
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/include/stddef.h: In function 'pxTaskGetStackStart':
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/include/stddef.h:359:23: error: storage class specified for parameter 'wint_t'
+  359 | typedef __WINT_TYPE__ wint_t;
+      |                       ^~~~~~
+make: *** [Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/subdir.mk:19: Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.o] Error 1
+make: *** Waiting for unfinished jobs....
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:30:14: error: storage class specified for parameter '__blkcnt_t'
+   30 | typedef long __blkcnt_t;
+      |              ^~~~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:34:14: error: storage class specified for parameter '__blksize_t'
+   34 | typedef long __blksize_t;
+      |              ^~~~~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:38:20: error: storage class specified for parameter '__fsblkcnt_t'
+   38 | typedef __uint64_t __fsblkcnt_t;
+      |                    ^~~~~~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:42:20: error: storage class specified for parameter '__fsfilcnt_t'
+   42 | typedef __uint32_t __fsfilcnt_t;
+      |                    ^~~~~~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:46:14: error: storage class specified for parameter '_off_t'
+   46 | typedef long _off_t;
+      |              ^~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:52:13: error: storage class specified for parameter '__pid_t'
+   52 | typedef int __pid_t;
+      |             ^~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:56:15: error: storage class specified for parameter '__dev_t'
+   56 | typedef short __dev_t;
+      |               ^~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:60:24: error: storage class specified for parameter '__uid_t'
+   60 | typedef unsigned short __uid_t;
+      |                        ^~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:63:24: error: storage class specified for parameter '__gid_t'
+   63 | typedef unsigned short __gid_t;
+      |                        ^~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:67:20: error: storage class specified for parameter '__id_t'
+   67 | typedef __uint32_t __id_t;
+      |                    ^~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:75:24: error: storage class specified for parameter '__ino_t'
+   75 | typedef unsigned short __ino_t;
+      |                        ^~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:90:20: error: storage class specified for parameter '__mode_t'
+   90 | typedef __uint32_t __mode_t;
+      |                    ^~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:96:1: error: expected declaration specifiers before '__extension__'
+   96 | __extension__ typedef long long _off64_t;
+      | ^~~~~~~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:102:16: error: expected '=', ',', ';', 'asm' or '__attribute__' before '__off_t'
+  102 | typedef _off_t __off_t;
+      |                ^~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:105:9: error: unknown type name '_off64_t'
+  105 | typedef _off64_t __loff_t;
+      |         ^~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:105:18: error: storage class specified for parameter '__loff_t'
+  105 | typedef _off64_t __loff_t;
+      |                  ^~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:108:14: error: storage class specified for parameter '__key_t'
+  108 | typedef long __key_t;
+      |              ^~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:116:14: error: storage class specified for parameter '_fpos_t'
+  116 | typedef long _fpos_t;           /* XXX must match off_t in <sys/types.h> */
+      |              ^~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:131:23: error: storage class specified for parameter '__size_t'
+  131 | typedef __SIZE_TYPE__ __size_t;
+      |                       ^~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:147:23: error: storage class specified for parameter '_ssize_t'
+  147 | typedef __SIZE_TYPE__ _ssize_t;
+      |                       ^~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:158:18: error: expected '=', ',', ';', 'asm' or '__attribute__' before '__ssize_t'
+  158 | typedef _ssize_t __ssize_t;
+      |                  ^~~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:167:5: error: expected specifier-qualifier-list before 'wint_t'
+  167 |     wint_t __wch;
+      |     ^~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:170:3: error: storage class specified for parameter '_mbstate_t'
+  170 | } _mbstate_t;
+      |   ^~~~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:175:15: error: storage class specified for parameter '_iconv_t'
+  175 | typedef void *_iconv_t;
+      |               ^~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:182:25: error: storage class specified for parameter '__clock_t'
+  182 | typedef _CLOCK_T_       __clock_t;
+      |                         ^~~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:189:25: error: storage class specified for parameter '__time_t'
+  189 | typedef _TIME_T_        __time_t;
+      |                         ^~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:195:25: error: storage class specified for parameter '__clockid_t'
+  195 | typedef _CLOCKID_T_     __clockid_t;
+      |                         ^~~~~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:198:25: error: storage class specified for parameter '__daddr_t'
+  198 | typedef long            __daddr_t;
+      |                         ^~~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:202:25: error: storage class specified for parameter '__timer_t'
+  202 | typedef _TIMER_T_       __timer_t;
+      |                         ^~~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:205:25: error: storage class specified for parameter '__sa_family_t'
+  205 | typedef __uint8_t       __sa_family_t;
+      |                         ^~~~~~~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:209:25: error: storage class specified for parameter '__socklen_t'
+  209 | typedef __uint32_t      __socklen_t;
+      |                         ^~~~~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:212:25: error: storage class specified for parameter '__nl_item'
+  212 | typedef int             __nl_item;
+      |                         ^~~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:213:25: error: storage class specified for parameter '__nlink_t'
+  213 | typedef unsigned short  __nlink_t;
+      |                         ^~~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:214:25: error: storage class specified for parameter '__suseconds_t'
+  214 | typedef long            __suseconds_t;  /* microseconds (signed) */
+      |                         ^~~~~~~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:215:25: error: storage class specified for parameter '__useconds_t'
+  215 | typedef unsigned long   __useconds_t;   /* microseconds (unsigned) */
+      |                         ^~~~~~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_types.h:223:33: error: storage class specified for parameter '__va_list'
+  223 | typedef __builtin_va_list       __va_list;
+      |                                 ^~~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/reent.h:23:25: error: storage class specified for parameter '__ULong'
+   23 | typedef unsigned __Long __ULong;
+      |                         ^~~~~~~
+In file included from D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/reent.h:35:
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/lock.h:34:25: error: storage class specified for parameter '_LOCK_T'
+   34 | typedef struct __lock * _LOCK_T;
+      |                         ^~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/lock.h:41:34: error: expected declaration specifiers or '...' before '_LOCK_T'
+   41 | extern void __retarget_lock_init(_LOCK_T *lock);
+      |                                  ^~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/lock.h:43:44: error: expected declaration specifiers or '...' before '_LOCK_T'
+   43 | extern void __retarget_lock_init_recursive(_LOCK_T *lock);
+      |                                            ^~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/lock.h:45:35: error: expected declaration specifiers or '...' before '_LOCK_T'
+   45 | extern void __retarget_lock_close(_LOCK_T lock);
+      |                                   ^~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/lock.h:47:45: error: expected declaration specifiers or '...' before '_LOCK_T'
+   47 | extern void __retarget_lock_close_recursive(_LOCK_T lock);
+      |                                             ^~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/lock.h:49:37: error: expected declaration specifiers or '...' before '_LOCK_T'
+   49 | extern void __retarget_lock_acquire(_LOCK_T lock);
+      |                                     ^~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/lock.h:51:47: error: expected declaration specifiers or '...' before '_LOCK_T'
+   51 | extern void __retarget_lock_acquire_recursive(_LOCK_T lock);
+      |                                               ^~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/lock.h:53:40: error: expected declaration specifiers or '...' before '_LOCK_T'
+   53 | extern int __retarget_lock_try_acquire(_LOCK_T lock);
+      |                                        ^~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/lock.h:55:50: error: expected declaration specifiers or '...' before '_LOCK_T'
+   55 | extern int __retarget_lock_try_acquire_recursive(_LOCK_T lock);
+      |                                                  ^~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/lock.h:58:37: error: expected declaration specifiers or '...' before '_LOCK_T'
+   58 | extern void __retarget_lock_release(_LOCK_T lock);
+      |                                     ^~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/lock.h:60:47: error: expected declaration specifiers or '...' before '_LOCK_T'
+   60 | extern void __retarget_lock_release_recursive(_LOCK_T lock);
+      |                                               ^~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/reent.h:36:27: error: expected '=', ',', ';', 'asm' or '__attribute__' before '_flock_t'
+   36 | typedef _LOCK_RECURSIVE_T _flock_t;
+      |                           ^~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/reent.h:57:3: error: expected specifier-qualifier-list before '__ULong'
+   57 |   __ULong _x[1];
+      |   ^~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/reent.h:84:9: error: expected specifier-qualifier-list before '__ULong'
+   84 |         __ULong _fntypes;                       /* type of exit routine -
+      |         ^~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/reent.h:174:3: error: expected specifier-qualifier-list before '_fpos_t'
+  174 |   _fpos_t (*_seek) (struct _reent *, void *, _fpos_t, int);
+      |   ^~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/reent.h:270:26: error: storage class specified for parameter '__FILE'
+  270 | typedef struct __sFILE   __FILE;
+      |                          ^~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/reent.h:274:15: error: expected '=', ',', ';', 'asm' or '__attribute__' before '__sf'
+  274 | extern __FILE __sf[3];
+      |               ^~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/reent.h:280:3: error: expected specifier-qualifier-list before '__FILE'
+  280 |   __FILE *_iobs;
+      |   ^~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/reent.h:283:21: error: storage class specified for parameter '__sglue'
+  283 | extern struct _glue __sglue;
+      |                     ^~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/reent.h:362:3: error: expected specifier-qualifier-list before '_mbstate_t'
+  362 |   _mbstate_t _mblen_state;
+      |   ^~~~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/reent.h:388:3: error: expected specifier-qualifier-list before '__FILE'
+  388 |   __FILE *_stdin, *_stdout, *_stderr;   /* XXX */
+      |   ^~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/reent.h:797:23: error: storage class specified for parameter '_impure_ptr'
+  797 | extern struct _reent *_impure_ptr __ATTRIBUTE_IMPURE_PTR__;
+      |                       ^~~~~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/reent.h:803:22: error: storage class specified for parameter '_impure_data'
+  803 | extern struct _reent _impure_data __ATTRIBUTE_IMPURE_DATA__;
+      |                      ^~~~~~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/reent.h:917:24: error: storage class specified for parameter '__atexit'
+  917 | extern struct _atexit *__atexit; /* points to head of LIFO stack */
+      |                        ^~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/reent.h:918:23: error: storage class specified for parameter '__atexit0'
+  918 | extern struct _atexit __atexit0; /* one guaranteed table, required by ANSI */
+      |                       ^~~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/reent.h:920:15: error: storage class specified for parameter '__stdio_exit_handler'
+  920 | extern void (*__stdio_exit_handler) (void);
+      |               ^~~~~~~~~~~~~~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/reent.h:924:68: error: expected declaration specifiers or '...' before '__FILE'
+  924 | extern int _fwalk_sglue (struct _reent *, int (*)(struct _reent *, __FILE *),
+      |                                                                    ^~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/reent.h:925:26: error: expected ';', ',' or ')' before 'struct'
+  925 |                          struct _glue *);
+      |                          ^~~~~~
+In file included from D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/string.h:20:
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/sys/_locale.h:10:28: error: storage class specified for parameter 'locale_t'
+   10 | typedef struct __locale_t *locale_t;
+      |                            ^~~~~~~~
+In file included from D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/string.h:24:
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/strings.h:71:52: error: expected declaration specifiers or '...' before 'locale_t'
+   71 | int      strcasecmp_l (const char *, const char *, locale_t);
+      |                                                    ^~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/strings.h:72:61: error: expected declaration specifiers or '...' before 'locale_t'
+   72 | int      strncasecmp_l (const char *, const char *, size_t, locale_t);
+      |                                                             ^~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/string.h:55:49: error: expected declaration specifiers or '...' before 'locale_t'
+   55 | int      strcoll_l (const char *, const char *, locale_t);
+      |                                                 ^~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/string.h:56:27: error: expected declaration specifiers or '...' before 'locale_t'
+   56 | char    *strerror_l (int, locale_t);
+      |                           ^~~~~~~~
+D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/string.h:57:71: error: expected declaration specifiers or '...' before 'locale_t'
+   57 | size_t   strxfrm_l (char *__restrict, const char *__restrict, size_t, locale_t);
+      |                                                                       ^~~~~~~~
+../Middlewares/Third_Party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.c:62:45: error: storage class specified for parameter 'SYSVIEW_FREERTOS_TASK_STATUS'
+   62 | typedef struct SYSVIEW_FREERTOS_TASK_STATUS SYSVIEW_FREERTOS_TASK_STATUS;
+      |                                             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+../Middlewares/Third_Party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.c:64:1: warning: empty declaration
+   64 | struct SYSVIEW_FREERTOS_TASK_STATUS {
+      | ^~~~~~
+../Middlewares/Third_Party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.c:72:37: error: expected '=', ',', ';', 'asm' or '__attribute__' before '_aTasks'
+   72 | static SYSVIEW_FREERTOS_TASK_STATUS _aTasks[SYSVIEW_FREERTOS_MAX_NOF_TASKS];
+      |                                     ^~~~~~~
+../Middlewares/Third_Party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.c:73:17: error: storage class specified for parameter '_NumTasks'
+   73 | static unsigned _NumTasks;
+      |                 ^~~~~~~~~
+../Middlewares/Third_Party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.c:84:35: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+   84 | static void _cbSendTaskList(void) {
+      |                                   ^
+../Middlewares/Third_Party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.c:104:29: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+  104 | static U64 _cbGetTime(void) {
+      |                             ^
+../Middlewares/Third_Party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.c:133:131: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+  133 | void SYSVIEW_AddTask(U32 xHandle, const char* pcTaskName, unsigned uxCurrentPriority, U32  pxStack, unsigned uStackHighWaterMark) {
+      |                                                                                                                                   ^
+../Middlewares/Third_Party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.c:163:133: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+  163 | void SYSVIEW_UpdateTask(U32 xHandle, const char* pcTaskName, unsigned uxCurrentPriority, U32 pxStack, unsigned uStackHighWaterMark) {
+      |                                                                                                                                     ^
+../Middlewares/Third_Party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.c:194:38: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+  194 | void SYSVIEW_DeleteTask(U32 xHandle) {
+      |                                      ^
+../Middlewares/Third_Party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.c:235:108: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+  235 | void SYSVIEW_SendTaskInfo(U32 TaskID, const char* sName, unsigned Prio, U32 StackBase, unsigned StackSize) {
+      |                                                                                                            ^
+../Middlewares/Third_Party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.c:254:1: error: parameter 'SYSVIEW_X_OS_TraceAPI' is initialized
+  254 | const SEGGER_SYSVIEW_OS_API SYSVIEW_X_OS_TraceAPI = {
+      | ^~~~~
+../Middlewares/Third_Party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.c:255:3: error: '_cbGetTime' undeclared (first use in this function)
+  255 |   _cbGetTime,
+      |   ^~~~~~~~~~
+../Middlewares/Third_Party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.c:255:3: note: each undeclared identifier is reported only once for each function it appears in
+../Middlewares/Third_Party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.c:256:3: error: '_cbSendTaskList' undeclared (first use in this function)
+  256 |   _cbSendTaskList,
+      |   ^~~~~~~~~~~~~~~
+In file included from ../Middlewares/Third_Party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.c:55:
+../Middlewares/Third_Party/FreeRTOS/Source/include/task.h:1488:10: error: old-style parameter declarations in prototyped function definition
+ 1488 | uint8_t* pxTaskGetStackStart( TaskHandle_t xTask) PRIVILEGED_FUNCTION
+      |          ^~~~~~~~~~~~~~~~~~~
+../Middlewares/Third_Party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.c:261: error: expected '{' at end of input
+../Middlewares/Third_Party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.c:261: warning: control reaches end of non-void function [-Wreturn-type]
+make: *** [Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/subdir.mk:19: Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o] Error 1
+make: *** [Middlewares/Third_Party/SEGGER/OS/subdir.mk:19: Middlewares/Third_Party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o] Error 1
+"make -j4 all" terminated with exit code 2. Build might be incomplete.
+
+21:34:57 Build Failed. 143 errors, 8 warnings. (took 3s.885ms)
+

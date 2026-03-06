@@ -1,0 +1,54 @@
+2025-10-21 07:14:51,185 [INFO] WebApp:194 - Connection lost
+2025-10-21 07:14:51,528 [INFO] WebApp:191 - Connection restablished
+2025-10-21 07:45:06,625 [INFO] WebApp:194 - Connection lost
+2025-10-21 07:45:06,825 [INFO] WebApp:191 - Connection restablished
+2025-10-21 08:18:30,511 [INFO] WebApp:194 - Connection lost
+2025-10-21 08:18:34,650 [INFO] WebAppUi:1100 - Web application message: Reloading CAD
+2025-10-21 08:18:36,347 [INFO] WebApp:191 - Connection restablished
+2025-10-21 08:19:05,624 [INFO] WebApp:194 - Connection lost
+2025-10-21 08:19:08,985 [INFO] WebApp:191 - Connection restablished
+2025-10-21 08:25:45,091 [INFO] WebApp:194 - Connection lost
+2025-10-21 08:25:45,315 [INFO] WebApp:191 - Connection restablished
+2025-10-21 08:56:21,611 [INFO] WebApp:194 - Connection lost
+2025-10-21 08:56:21,879 [INFO] WebApp:191 - Connection restablished
+2025-10-21 09:03:10,346 [INFO] Gpio:278 - dependency for GPIO [RCC, SYS]
+2025-10-21 09:03:38,224 [INFO] WebApp:194 - Connection lost
+2025-10-21 09:03:41,759 [INFO] WebApp:191 - Connection restablished
+2025-10-21 09:03:46,149 [INFO] WebApp:194 - Connection lost
+2025-10-21 09:03:46,319 [INFO] WebApp:191 - Connection restablished
+2025-10-21 09:04:02,702 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 874645000 Bytes (1073741824)
+2025-10-21 09:04:03,122 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 899288320 Bytes (1073741824)
+2025-10-21 09:04:06,475 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 383809384 Bytes (1073741824)
+2025-10-21 09:04:07,995 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-10-21 09:04:07,995 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-10-21 09:04:07,996 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-10-21 09:04:07,997 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-10-21 09:04:08,000 [INFO] CodeGenerator:892 - code generatio: config db path: D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-10-21 09:04:08,317 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\license.tmp_save
+2025-10-21 09:04:09,198 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\license.tmp
+2025-10-21 09:04:09,343 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\gpio.tmp_save
+2025-10-21 09:04:10,002 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\gpio.tmp
+2025-10-21 09:04:10,115 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_it.c_save
+2025-10-21 09:04:11,256 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_it.c
+2025-10-21 09:04:11,289 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_it.h_save
+2025-10-21 09:04:11,634 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_it.h
+2025-10-21 09:04:11,713 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_hal_msp.c_save
+2025-10-21 09:04:12,267 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_hal_msp.c
+2025-10-21 09:04:12,314 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\system.tmp_save
+2025-10-21 09:04:12,635 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\system.tmp
+2025-10-21 09:04:12,671 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2025-10-21 09:04:12,963 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_hal_timebase_tim.c
+2025-10-21 09:04:13,064 [INFO] CodeEngine:321 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-10-21 09:04:13,483 [INFO] CodeEngine:345 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_hal_conf.h
+2025-10-21 09:04:13,675 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\main.h_save
+2025-10-21 09:04:14,102 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\main.h
+2025-10-21 09:04:14,152 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\main.c_save
+2025-10-21 09:04:14,629 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\main.c
+2025-10-21 09:04:16,062 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 862mS.
+2025-10-21 09:04:16,077 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-10-21 09:04:16,362 [INFO] ConfigFileManager:1595 - The Die is : DIE413
+2025-10-21 09:04:23,047 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 6971mS.
+2025-10-21 09:04:23,049 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-10-21 09:04:23,064 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-10-21 09:06:44,118 [INFO] WebApp:194 - Connection lost
+2025-10-21 09:06:44,409 [INFO] WebApp:191 - Connection restablished

@@ -1,0 +1,294 @@
+2025-10-22 00:10:34,658 [INFO] WebApp:194 - Connection lost
+2025-10-22 00:10:34,904 [INFO] WebApp:191 - Connection restablished
+2025-10-22 00:19:35,628 [INFO] WebApp:194 - Connection lost
+2025-10-22 00:19:35,833 [INFO] WebApp:191 - Connection restablished
+2025-10-22 00:20:10,112 [INFO] WebApp:194 - Connection lost
+2025-10-22 00:20:10,322 [INFO] WebApp:191 - Connection restablished
+2025-10-22 00:20:25,929 [INFO] WebApp:194 - Connection lost
+2025-10-22 00:20:26,109 [INFO] WebApp:191 - Connection restablished
+2025-10-22 00:20:35,257 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:35,446 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:35,446 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:35,448 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:35,449 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:35,450 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:35,450 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:35,451 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:35,451 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:35,452 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:35,453 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:35,453 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:35,455 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:35,455 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:35,456 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:35,539 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:35,701 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-22 00:20:36,118 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-22 00:20:36,703 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-22 00:20:37,382 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-22 00:20:37,723 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:37,723 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:37,724 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:37,728 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:37,728 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:37,729 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:37,731 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:37,731 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:37,732 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:37,732 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:37,732 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:37,733 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:37,733 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:37,734 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:37,881 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:38,067 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:38,068 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:38,068 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:38,069 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:38,072 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:38,072 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:38,073 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:38,073 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:38,075 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:38,076 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:38,077 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:38,077 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:38,078 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:38,079 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:38,213 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:38,281 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-22 00:20:42,859 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:42,859 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:42,861 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:42,861 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:42,862 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:42,862 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:42,863 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:42,865 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:42,865 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:42,866 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:42,866 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:42,867 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:42,867 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:42,867 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:20:42,980 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:21:20,610 [INFO] WebApp:194 - Connection lost
+2025-10-22 00:21:20,799 [INFO] WebApp:191 - Connection restablished
+2025-10-22 00:22:42,612 [INFO] WebApp:194 - Connection lost
+2025-10-22 00:22:44,312 [INFO] WebApp:191 - Connection restablished
+2025-10-22 00:22:48,521 [INFO] Gpio:278 - dependency for GPIO [ADC1, I2C1, RCC, SYS]
+2025-10-22 00:23:15,831 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:15,831 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:15,831 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:15,831 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:15,831 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:15,831 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:15,832 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:15,832 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:15,832 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:15,832 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:15,832 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:15,832 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:15,832 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:15,832 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:15,911 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:16,042 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:16,044 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:16,044 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:16,045 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:16,045 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:16,045 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:16,046 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:16,046 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:16,047 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:16,047 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:16,047 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:16,048 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:16,048 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:16,049 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:16,130 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:22,524 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,688x390,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-22 00:23:26,073 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:26,073 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:26,074 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:26,074 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:26,075 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:26,075 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:26,075 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:26,076 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:26,076 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:26,077 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:26,077 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:26,077 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:26,078 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:26,078 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:26,152 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-10-22 00:23:39,340 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 968511160 Bytes (1073741824)
+2025-10-22 00:23:39,752 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 372127512 Bytes (1073741824)
+2025-10-22 00:23:41,715 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 462827288 Bytes (1073741824)
+2025-10-22 00:23:43,092 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-10-22 00:23:43,092 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-10-22 00:23:43,092 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: ADC
+2025-10-22 00:23:43,092 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-10-22 00:23:43,092 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2C
+2025-10-22 00:23:43,093 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-10-22 00:23:43,093 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-10-22 00:23:43,097 [INFO] CodeGenerator:892 - code generatio: config db path: D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-10-22 00:23:43,123 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-22 00:23:43,124 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-22 00:23:43,464 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\license.tmp_save
+2025-10-22 00:23:44,890 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\license.tmp
+2025-10-22 00:23:45,029 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\gpio.tmp_save
+2025-10-22 00:23:45,691 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\gpio.tmp
+2025-10-22 00:23:46,839 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_it.c_save
+2025-10-22 00:23:48,069 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_it.c
+2025-10-22 00:23:48,110 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_it.h_save
+2025-10-22 00:23:48,534 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_it.h
+2025-10-22 00:23:48,662 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_hal_msp.c_save
+2025-10-22 00:23:49,381 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_hal_msp.c
+2025-10-22 00:23:49,412 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\system.tmp_save
+2025-10-22 00:23:49,741 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\system.tmp
+2025-10-22 00:23:49,801 [INFO] CodeEngine:321 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-10-22 00:23:50,211 [INFO] CodeEngine:345 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_hal_conf.h
+2025-10-22 00:23:50,324 [INFO] ApiDbMcu:532 - Load IP Config File for ADC1
+2025-10-22 00:23:50,330 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-10-22 00:23:50,331 [WARN] CodeGenerator:4259 - IP not found : null
+2025-10-22 00:23:50,372 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\main.h_save
+2025-10-22 00:23:50,838 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\main.h
+2025-10-22 00:23:50,902 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\main.c_save
+2025-10-22 00:23:51,548 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\main.c
+2025-10-22 00:23:54,488 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 2213mS.
+2025-10-22 00:23:54,500 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-10-22 00:23:54,789 [INFO] ConfigFileManager:1595 - The Die is : DIE413
+2025-10-22 00:24:02,356 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 7855mS.
+2025-10-22 00:24:02,358 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 2mS.
+2025-10-22 00:24:02,367 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-10-22 00:24:27,159 [INFO] WebApp:194 - Connection lost
+2025-10-22 00:24:28,982 [INFO] WebApp:191 - Connection restablished
+2025-10-22 00:24:43,352 [INFO] WebApp:194 - Connection lost
+2025-10-22 00:24:43,653 [INFO] WebApp:191 - Connection restablished
+2025-10-22 00:36:07,628 [INFO] WebApp:194 - Connection lost
+2025-10-22 00:36:07,878 [INFO] WebApp:191 - Connection restablished
+2025-10-22 00:37:30,133 [INFO] WebApp:194 - Connection lost
+2025-10-22 00:37:30,345 [INFO] WebApp:191 - Connection restablished
+2025-10-22 00:51:35,373 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,688x390,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-22 00:51:36,806 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-22 00:53:41,432 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-22 00:53:41,885 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-22 00:53:41,886 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-22 00:53:41,887 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-22 00:53:41,889 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-22 00:53:42,142 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-22 00:53:42,142 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-22 00:53:42,352 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-22 00:53:42,352 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-22 00:53:42,564 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-22 00:53:56,492 [INFO] Gpio:278 - dependency for GPIO [ADC1, I2C1, RCC, SYS, USART1]
+2025-10-22 00:54:22,475 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 573898280 Bytes (1073741824)
+2025-10-22 00:54:23,747 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 358304208 Bytes (1073741824)
+2025-10-22 00:54:28,883 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 828570752 Bytes (1073741824)
+2025-10-22 00:54:32,737 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-10-22 00:54:32,738 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-10-22 00:54:32,739 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: ADC
+2025-10-22 00:54:32,740 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-10-22 00:54:32,740 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2C
+2025-10-22 00:54:32,741 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-10-22 00:54:32,741 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2025-10-22 00:54:32,743 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-10-22 00:54:32,747 [INFO] CodeGenerator:892 - code generatio: config db path: D:\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-10-22 00:54:32,837 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-10-22 00:54:32,860 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-10-22 00:54:33,860 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\license.tmp_save
+2025-10-22 00:54:35,293 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\license.tmp
+2025-10-22 00:54:35,595 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\gpio.tmp_save
+2025-10-22 00:54:36,755 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\gpio.tmp
+2025-10-22 00:54:38,576 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_it.c_save
+2025-10-22 00:54:40,147 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_it.c
+2025-10-22 00:54:40,187 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_it.h_save
+2025-10-22 00:54:40,853 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_it.h
+2025-10-22 00:54:40,989 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_hal_msp.c_save
+2025-10-22 00:54:41,976 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\stm32f4xx_hal_msp.c
+2025-10-22 00:54:42,011 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\system.tmp_save
+2025-10-22 00:54:42,610 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\MXTmpFiles\system.tmp
+2025-10-22 00:54:42,673 [INFO] CodeEngine:321 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-10-22 00:54:43,202 [INFO] CodeEngine:345 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\stm32f4xx_hal_conf.h
+2025-10-22 00:54:43,330 [INFO] ApiDbMcu:532 - Load IP Config File for USART1
+2025-10-22 00:54:43,335 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-10-22 00:54:43,339 [WARN] CodeGenerator:4259 - IP not found : null
+2025-10-22 00:54:43,381 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\main.h_save
+2025-10-22 00:54:44,112 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Inc\main.h
+2025-10-22 00:54:44,149 [INFO] CodeEngine:265 - oldGeneratedFile, D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\main.c_save
+2025-10-22 00:54:45,036 [INFO] CodeEngine:289 - Generated code: D:\stm32\FreeRTOS_EnvironmentalAlert\Core\Src\main.c
+2025-10-22 00:54:49,476 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 3489mS.
+2025-10-22 00:54:49,494 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-10-22 00:54:49,846 [INFO] ConfigFileManager:1595 - The Die is : DIE413
+2025-10-22 00:54:58,812 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 9318mS.
+2025-10-22 00:54:58,815 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 2mS.
+2025-10-22 00:54:58,833 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-10-22 01:01:30,294 [INFO] WebApp:194 - Connection lost
+2025-10-22 01:01:30,663 [INFO] WebApp:191 - Connection restablished
+2025-10-22 01:10:31,853 [INFO] WebApp:194 - Connection lost
+2025-10-22 01:10:33,704 [INFO] WebApp:191 - Connection restablished
+2025-10-22 01:16:48,013 [INFO] WebApp:194 - Connection lost
+2025-10-22 01:16:53,961 [INFO] WebApp:191 - Connection restablished
+2025-10-22 01:40:50,284 [INFO] WebApp:194 - Connection lost
+2025-10-22 01:40:50,669 [INFO] WebApp:191 - Connection restablished
+2025-10-22 01:53:59,111 [INFO] WebApp:194 - Connection lost
+2025-10-22 01:54:00,644 [INFO] WebApp:191 - Connection restablished
+2025-10-22 02:11:22,212 [INFO] WebApp:194 - Connection lost
+2025-10-22 02:11:22,469 [INFO] WebApp:191 - Connection restablished
+2025-10-22 10:59:14,224 [INFO] WebApp:194 - Connection lost
+2025-10-22 10:59:18,450 [INFO] WebApp:191 - Connection restablished
+2025-10-22 10:59:22,821 [INFO] WebApp:194 - Connection lost
+2025-10-22 10:59:23,132 [INFO] WebApp:191 - Connection restablished
+2025-10-22 11:30:18,214 [INFO] WebApp:194 - Connection lost
+2025-10-22 11:30:18,604 [INFO] WebApp:191 - Connection restablished
+2025-10-22 14:31:51,736 [INFO] WebApp:194 - Connection lost
+2025-10-22 14:31:57,372 [INFO] WebApp:191 - Connection restablished
+2025-10-22 15:11:13,192 [INFO] WebApp:194 - Connection lost
+2025-10-22 15:11:15,386 [INFO] WebApp:191 - Connection restablished
+2025-10-22 15:27:17,625 [INFO] WebApp:194 - Connection lost
+2025-10-22 15:27:17,882 [INFO] WebApp:191 - Connection restablished
+2025-10-22 15:36:49,757 [INFO] WebApp:194 - Connection lost
+2025-10-22 15:36:55,648 [INFO] WebAppUi:1100 - Web application message: Reloading CAD
+2025-10-22 15:36:58,282 [INFO] WebApp:191 - Connection restablished
+2025-10-22 15:40:15,185 [INFO] WebApp:194 - Connection lost
+2025-10-22 15:40:15,541 [INFO] WebApp:191 - Connection restablished
+2025-10-22 15:43:05,154 [INFO] WebApp:194 - Connection lost
+2025-10-22 15:43:05,532 [INFO] WebApp:191 - Connection restablished
+2025-10-22 15:44:18,639 [INFO] WebApp:194 - Connection lost
+2025-10-22 15:44:18,954 [INFO] WebApp:191 - Connection restablished
+2025-10-22 16:15:32,140 [INFO] WebApp:194 - Connection lost
+2025-10-22 16:15:33,289 [INFO] WebApp:191 - Connection restablished
+2025-10-22 16:24:43,212 [INFO] WebApp:194 - Connection lost
+2025-10-22 16:24:43,463 [INFO] WebApp:191 - Connection restablished
+2025-10-22 16:47:37,662 [INFO] WebApp:194 - Connection lost
+2025-10-22 16:47:38,081 [INFO] WebApp:191 - Connection restablished
+2025-10-22 16:47:50,735 [INFO] WebApp:194 - Connection lost
+2025-10-22 16:47:51,389 [INFO] WebApp:191 - Connection restablished
+2025-10-22 17:19:02,706 [INFO] WebApp:194 - Connection lost
+2025-10-22 17:19:06,452 [INFO] WebApp:191 - Connection restablished
+2025-10-22 17:33:58,675 [INFO] WebApp:194 - Connection lost
+2025-10-22 17:33:58,999 [INFO] WebApp:191 - Connection restablished
+2025-10-22 18:04:26,206 [INFO] WebApp:194 - Connection lost
+2025-10-22 18:04:29,912 [INFO] WebApp:191 - Connection restablished
+2025-10-22 18:34:41,754 [INFO] WebApp:194 - Connection lost
+2025-10-22 18:34:45,062 [INFO] WebApp:191 - Connection restablished
+2025-10-22 18:39:52,662 [INFO] WebApp:194 - Connection lost
+2025-10-22 18:39:52,917 [INFO] WebApp:191 - Connection restablished
+2025-10-22 19:01:30,244 [INFO] WebApp:194 - Connection lost
+2025-10-22 19:01:30,653 [INFO] WebApp:191 - Connection restablished
+2025-10-22 21:22:58,232 [INFO] WebApp:194 - Connection lost
+2025-10-22 21:22:59,029 [INFO] WebApp:191 - Connection restablished
+2025-10-22 21:23:11,792 [INFO] WebApp:194 - Connection lost
+2025-10-22 21:23:12,037 [INFO] WebApp:191 - Connection restablished
+2025-10-22 22:27:09,241 [INFO] WebApp:194 - Connection lost
+2025-10-22 22:27:09,810 [INFO] WebApp:191 - Connection restablished
+2025-10-22 23:10:57,714 [INFO] WebApp:194 - Connection lost
+2025-10-22 23:10:58,173 [INFO] WebApp:191 - Connection restablished
+2025-10-22 23:39:25,263 [INFO] WebApp:194 - Connection lost
+2025-10-22 23:39:29,259 [INFO] WebApp:191 - Connection restablished
+2025-10-22 23:39:33,694 [INFO] WebApp:194 - Connection lost
+2025-10-22 23:39:34,017 [INFO] WebApp:191 - Connection restablished
+2025-10-22 23:55:21,225 [INFO] WebApp:194 - Connection lost
+2025-10-22 23:55:22,313 [INFO] WebApp:191 - Connection restablished

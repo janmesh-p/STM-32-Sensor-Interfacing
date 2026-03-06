@@ -1,0 +1,7 @@
+../Core/Src/mq2.c:25:14:MQ2_ResistanceFromADC	16	static
+../Core/Src/mq2.c:34:14:MQ2_AverageRead	24	static
+../Core/Src/mq2.c:50:7:MQ2_Calibrate	16	static
+../Core/Src/mq2.c:56:7:MQ2_ReadRaw	8	static
+../Core/Src/mq2.c:61:7:MQ2_GetRatio	16	static
+../Core/Src/mq2.c:67:12:MQ2_CurveFit	24	static
+../Core/Src/mq2.c:74:5:MQ2_GetPPM	24	static
